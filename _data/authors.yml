@@ -1,0 +1,22 @@
+paaatcha:
+  name: "André Pacheco"
+  avatar: "https://avatars.githubusercontent.com/u/2164202?v=4"
+  bio: "Professor do departamento de Informática da UFES e membro do Programa de Pós-Graduação em Informática (PPGI). É um dos fundadores do 
+  laboratório e trabalha principalmente com aprendizado de máquina aplicado em problemas de saúde."
+  location: "Vitória - ES"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: mailto:pacheco.comp@gmail.com
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://pachecoandre.com.br"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/paaatcha"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/paaatcha"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/paaatcha"

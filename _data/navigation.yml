@@ -1,0 +1,14 @@
+# main links
+main:
+  - title: "Início"
+    url: /
+  - title: "Sobre"
+    url: /sobre/
+  - title: "Equipe"
+    url: /equipe/
+  - title: "Publicações"
+    url: /publicacoes/
+  - title: "Notícias"
+    url: /noticias/
+  - title: "Projetos"
+    url: /projetos/

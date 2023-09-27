@@ -1,0 +1,37 @@
+
+researchers:
+  - name: "Andre G. C. Pacheco"
+    photo: "andre_pacheco.png"
+    site: "http://pachecoandre.com.br"
+    desc: "Professor do Departamento de Informática (DI) e membro do Programa de Pós-Graduação em Informática (PPGI) da UFES"
+
+  - name: "Filipe Wall Mutz"
+    photo: "filipe_mutz.png"
+    site: "http://www.fmtz.com.br/"
+    desc: "Professor do Departamento de Informática (DI) da UFES"
+
+students:
+  - name: "Eduarda Pyrlo Magesk"
+    photo: "eduarda_magesky.png"
+    site: "https://www.linkedin.com/in/eduarda-magesky-9b1b3a1b0/"
+    topics: "Fullstack development | Coleta de dados"
+    course: "Engenharia da Computação"
+    supervisors: "Andre Pacheco"
+    level: "Graduação"
+
+  - name: "Clayton Oliveira Vicente"
+    photo: "clayton_vicente.jpeg"
+    site: "#"
+    topics: "Coleta de dados | Dermatologia"
+    course: "Medicina"
+    supervisors: "Andre Pacheco"
+    level: "Graduação"
+
+alumni:
+  - name: "Luiz Gabriel Bandeira"
+    photo: "luiz_bandeira.jpeg"
+    site: "https://github.com/LuizGBR"    
+    course: "Engenharia de Computação"
+    supervisors: "Andre Pacheco"
+    resultado: "Análise de transferência de aprendizado com rótulos fracos para classificação de câncer de pele"
+    link: "http://pachecoandre.com.br/assets/files/students/pgs/luiz_gabriel.pdf"
