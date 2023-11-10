@@ -20,7 +20,7 @@ title                    : "Laboratório de Inteligência Artificial em Saúde (
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Laboratório de Inteligência Artificial em Saúde (Life)"
-description              : "Life é um laboratório de pesquisa vinculado ao Pograma de Pós-Graduação em Informática da UFES"
+description              : "Life é um laboratório de pesquisa vinculado ao Programa de Pós-Graduação em Informática da UFES"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/" # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"

@@ -1,7 +1,11 @@
 {%- for member in site.data.members.students -%}
 <div class="member-container member-on">
 
-    <img src="/assets/imgs/equipe/alunos/{{%member.photo%}}" class="member-img">
+    {% if member.photo %}
+        <img src="/assets/imgs/equipe/alunos/{{%member.photo%}}" class="member-img">
+    {% else %}
+        <img src="/assets/imgs/equipe/default-profile.png" class="member-img" />
+    {% endif %}
     
     <div class="member-info">
       <ul>

@@ -11,6 +11,29 @@ researchers:
     desc: "Professor do Departamento de Informática (DI) da UFES"
 
 students:
+  - name: "Gabriel Giorisatto de Angelo"
+    photo: "gabobo.jpeg"
+    site: "https://br.linkedin.com/in/gabrielgangelo"
+    topics: "Machine Learning | LLMs| Classificação de câncer de pele"
+    course: "Mestrado em Informática"
+    supervisors: "Andre Pacheco"
+    level: "Pós-Graduação"
+
+  - name: "Afonso Salvador"
+    photo: "afonso_salvador.jpeg"
+    site: "https://www.linkedin.com/in/afonso-salvador-67869b23a/"
+    topics: "Machine Learning | Aprendizado auto-supervisionado | Classificação de câncer de pele"
+    course: "Engenharia de Computação"
+    supervisors: "Andre Pacheco"
+    level: "Graduação"
+
+  - name: "Arthur Trarbach Sampaio"
+    photo: "arthur_trarbach.jpeg"
+    site: "https://github.com/TrarbachArthur"
+    topics: "Machine Learning | Fusão de Dados | Classificação de câncer de pele"
+    course: "Engenharia de Computação"
+    level: "Graduação"
+
   - name: "Eduarda Pyrlo Magesk"
     photo: "eduarda_magesky.png"
     site: "https://www.linkedin.com/in/eduarda-magesky-9b1b3a1b0/"
@@ -25,6 +48,40 @@ students:
     topics: "Coleta de dados | Dermatologia"
     course: "Medicina"
     supervisors: "Andre Pacheco"
+    level: "Graduação"
+
+  - name: "Elias Pereira Júnior"
+    photo: "elias_junior.jpeg"
+    site: "https://github.com/EPGJ"
+    topics: "Visualização de dados | Desenvolvimento web"
+    course: "Engenharia da Computação"
+    level: "Graduação"
+
+  - name: "Matheus Luciano Sesana Goldner"
+    site: "https://github.com/MatheusLSG"
+    topics: "Fullstack development | Coleta de dados"
+    course: "Ciência da Computação"
+    level: "Graduação"
+
+  - name: "Guilherme Caldana"
+    photo: "guilherme_caldana.jpeg"
+    site: "https://github.com/caldgui"
+    topics: "Fullstack development | Coleta de dados"
+    course: "Engenharia Elétrica"
+    level: "Graduação"
+
+  - name: "Gabriel Schettino"
+    photo: "gabriel_schettino.png"
+    site: "https://github.com/gabrielschettino"
+    topics: "Fullstack development | Coleta de dados"
+    course: "Engenharia Elétrica"
+    level: "Graduação"
+
+  - name: "Gabryel Batista"
+    photo: "gabryel_batista.jpeg"
+    site: "https://github.com/gabryelfbatista"
+    topics: "Fullstack development | Coleta de dados"
+    course: "Engenharia Elétrica"
     level: "Graduação"
 
 alumni:
