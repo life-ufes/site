@@ -630,3 +630,13 @@ body {
   text-decoration: none;
   font-weight: 550;
 }
+
+.paper-container {
+  display: flex;
+  align-items: top;
+  gap: 10px;
+  padding: 25px;
+  background-color: #f2f3f3;
+  border-radius: 10px;
+  margin-bottom: 15px;
+}

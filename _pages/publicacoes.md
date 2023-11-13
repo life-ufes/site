@@ -6,8 +6,7 @@ classes: wide
 author_profile: true
 ---
 
-A seguir, você encontra a lista de publicações de trabalhos realizados dentro do laboratório.
+A seguir, você encontra a lista de publicações de trabalhos, em ordem cronológica, realizados por membros do laboratório. Caso se interesse por algum deles, sinta-se livre para entrar em contato com um dos autores correspondente.
 
-```
-TODO: criar um yml para acomodar as publicações
-```
+
+{% include papers.html %}

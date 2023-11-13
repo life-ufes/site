@@ -10,6 +10,11 @@ researchers:
     site: "http://www.fmtz.com.br/"
     desc: "Professor do Departamento de Informática (DI) da UFES"
 
+  - name: "Luis Antonio de Souza Júnior"
+    photo: "luis_souza.png"
+    site: "#"
+    desc: "Professor do Departamento de Informática (DI) da UFES"
+
 students:
   - name: "Gabriel Giorisatto de Angelo"
     photo: "gabobo.jpeg"

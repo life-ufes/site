@@ -1,0 +1,25 @@
+# - title:
+#   authors:
+#   link:
+#   place:
+#   code:
+#   page:
+#   presentation:
+
+papers:
+  - title: "SADE: Software de Análise Dermatológica - Um sistema de coleta, gerenciamento e triagem de lesões de pele"
+    authors: "Andre G. C. Pacheco, Clayton Oliveira Vicente, Eduarda Pylro Magesk, Gabriel Schettino Lucas e Guilherme Teixeira Caldana, Patricia H. L. Frasson"
+    link: "https://sol.sbc.org.br/index.php/webmedia_estendido/article/view/25686"
+    place: "Anais estendidos do Simpósio Brasileiro de Sistemas Multimídia e Web (webmedia)"
+
+  - title: "Towards low-power heart rate estimation based on user’s demographics and activity level for wearable"
+    authors: "Andre G. C. Pacheco, Frank A. C. Cabello, Paula G. Rodrigues, Desiree C. Miraldo, Paula R. Pinto, Adriana M. O. Fonoff, and Otavio A. B. Penatti"
+    link: "https://ieeexplore.ieee.org/document/10095339"
+    place: "IEEE International Conference on Acoustics, Speech and Signal Processing"
+
+  - title: "Learning to estimate heart rate from accelerometer and user’s demographics during physical exercises"
+    authors: "Andre G. C. Pacheco, Frank A. C. Cabello, Paula G. Rodrigues, Desiree C. Miraldo, Vanessa B. O. Fioravanti, Rafael G. Lima, Paula R. Pinto, Adriana M. O. Fonoff, and Otavio A. B. Penatti"
+    link: "https://ieeexplore.ieee.org/document/10057982"
+    place: "IEEE Journal of Biomedical and Health Informatics"
+    code:
+    presentation:
