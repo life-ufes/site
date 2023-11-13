@@ -6,7 +6,7 @@ header:
   actions:
     - label: "Notícias"
       url: "/noticias/"
-excerpt: "Life é um laboratório de pesquisa vinculado ao Pograma de Pós-Graduação em Informática da UFES atualmente localizado na sala 27 do prédio CT-13"
+excerpt: "Life é um laboratório de pesquisa vinculado ao Programa de Pós-Graduação em Informática da UFES atualmente localizado na sala 27 do prédio CT-13"
 feature_row:
   - title: "Pesquisa 🧠"
     excerpt: "O principal intuito do laboratório é gerar conhecimento na área de Informática em Saúde, partcicularmente em tópicos que envolva o uso de inteligência artificial..."

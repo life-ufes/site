@@ -15,6 +15,31 @@ researchers:
     site: "#"
     desc: "Professor do Departamento de Informática (DI) da UFES"
 
+  - name: "Patrícia Lyra"
+    photo: "patricia.png"
+    site: "http://lattes.cnpq.br/9185092341238832"    
+    desc: "Professora do Departamento de Medicina Especializada (DME) e Cirurgiã Plástica"  
+
+  - name: "José Carlos Frasson"
+    photo: "frasson.png"
+    site: "#"    
+    desc: "Cirurgião Pediátrico e membro do Padtech"     
+
+  - name: "Vitor Fiorin de Vasconcellos"
+    photo: "vitor.png"
+    site: "http://lattes.cnpq.br/4440628795817010"    
+    desc: "Professor do Departamento de Clínica Médica da UFES e Oncologista" 
+
+  - name: "Aloísio Falqueto"
+    photo: "falqueto.png"
+    site: "http://lattes.cnpq.br/7897153591613337"    
+    desc: "Professor do Departamento de Medicina Social da UFES e Infectologista"    
+
+  - name: "Renata Scarpat Careta"
+    photo: "renata.png"
+    site: "http://lattes.cnpq.br/8994366988965721"    
+    desc: "Anatomopatologista do Laboratório de Patologia da UFES"       
+
 students:
   - name: "Gabriel Giorisatto de Angelo"
     photo: "gabobo.jpeg"
