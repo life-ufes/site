@@ -4,6 +4,7 @@ permalink: /noticias/
 title: "Notícias"
 taxonomy: Notícias
 author_profile: True
+classes: wide
 excerpt: "Veja as últimas notícias relacionadas ao Laboratório"
 
 ---

@@ -3,6 +3,7 @@ layout: splash
 author_profile: false
 header:
   overlay_image: /assets/imgs/capas/capa.png
+  overlay_filter: "0.2"
   actions:
     - label: "Notícias"
       url: "/noticias/"

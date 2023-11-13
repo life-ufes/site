@@ -104,27 +104,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Life-UFES"
+  name             : "Life-Ufes"
   avatar           : "assets/imgs/favicon.png"
   bio              : "Laboratório de Inteligência Artificial em Saúde (Life)" 
   location         : "Sala 27 - Prédio CT-13"
   email            : life@inf.ufes.br
-  links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:apacheco@inf.ufes.br"    
+  links:  
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/life-ufes"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "#"
-    - label: "Linkedin"
-      icon: "fab fa-fw fa-linkedin"
-      url: "#"
-    - label: "YouTube"
-      icon: "fab fa-fw fa-youtube"
-      url: "#"
    
 
 # Site Footer

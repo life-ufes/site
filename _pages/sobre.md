@@ -7,10 +7,31 @@ author_profile: true
 ---
 
 
-O Laboratório de Inteligência Artificial em Saúde (Life) foi fundado...
-It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).
+# Um pouco de história
 
-It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).
+O Laboratório de Inteligência Artificial em Saúde (Life) foi fundado no início de 2023 pelos professores André Pacheco, Filipe Mutz e Thiago Oliveira. A sua criação só foi possível devido ao edital de Apoio à Infraestrutura de Pesquisa, Desenvolvimento e Inovação em Laboratório Interdisciplinares. Este edital foi oferecido pela [FAPES](https://fapes.es.gov.br/) e foi o alicerce financeiro para construir toda infraestrutura básica do laboratório. Atualmente, laboratório é vinculado ao [Programa de Pós-Graduação em Informática (PPGI)](https://informatica.ufes.br/pt-br/pos-graduacao/PPGI) da UFES e está localizado na sala 27 do prédio CT-13.
+{: style="text-align: justify;"}
 
-It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).
-It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).
+
+
+# Nosso trabalho
+
+O principal intuito do laboratório é gerar e explorar conhecimento na área de Informática em Saúde, particularmente em tópicos que envolva o uso de inteligência artificial. Acreditamos que a tecnologia pode ser utilizada para melhorar a qualidade da assistência médica, impulsionar a pesquisa científica e promover avanços significativos no campo da saúde. Para isso, o laboratório conta com uma equipe multidisciplinar de pesquisadores, alunos de graduação e pós-graduação, além de colaboradores externos. Essa diversidade de conhecimentos e experiências nos permite abordar os desafios complexos da área da saúde de maneira abrangente e colaborativa. 
+{: style="text-align: justify;"}
+
+Para mais informações sobre os principais projetos em andamento, consulte a página de [projetos](/projetos/).
+{: style="text-align: justify;"}
+
+# Fomento
+
+Desde a sua criação, o laboratório conta com o apoio financeiro de duas agências de fomento:
+{: style="text-align: justify;"}
+
+![apoio](/assets/imgs/apoio.png)
+
+
+
+
+
+
+
