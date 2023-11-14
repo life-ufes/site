@@ -8,5 +8,5 @@ main:
     url: /publicacoes/
   - title: "Projetos"
     url: /projetos/
-  - title: "Notícias"
-    url: /noticias/  
+  - title: "Blog"
+    url: /blog/  

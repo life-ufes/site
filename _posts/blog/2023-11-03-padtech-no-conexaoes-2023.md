@@ -4,7 +4,7 @@ classes: wide
 header:
   teaser: "/assets/imgs/posts/feiras/padtech-conexaoes-2.jpeg"
 categories:
-  - Notícias
+  - Blog
 time_padtech:
   - url: /assets/imgs/posts/feiras/padtech-conexaoes-1.jpeg
     image_path: /assets/imgs/posts/feiras/padtech-conexaoes-1.jpeg

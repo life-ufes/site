@@ -129,14 +129,14 @@ Outros atributos interessantes que podemos usar:
 - `header`
   - `teaser`: podemos passar o caminho para uma imagem para que ela aparece em posts recomendados. Por exemplo, `/assets/imgs/posts/casa.png`, vai fazer com que essa imagem seja a imagem de chamada para o post.
   
-  - `categories`: podemos criar categorias para o blog. Neste site, estamos usando apenas uma: <code>Notícias</code>. Logo, esse atributo fica:
+  - `categories`: podemos criar categorias para o blog. Neste site, usamos `Blog` e `Wiki`. Logo, esse atributo fica:
   
   ```
   categories:
-    - Notícias
+    - Blog
   ```
   
-  Esse nome criado (no caso `Notícias`), é usado como taxonomia para criar uma página de notícias do site. Obviamente, pode ser alterado ou criado outras (ex: tutorias).
+  Esse nome criado (no caso `Blog`), é usado como taxonomia para criar uma página de `\blog` do site. Obviamente, pode ser alterado ou criado outras (ex: tutoriais).
 
   - `tags`: podemos criar `tags` para os posts para que eles sejam organizados em grupos similares. Neste caso, podemos criar quantas forem necessárias. Por exemplo:
   ```

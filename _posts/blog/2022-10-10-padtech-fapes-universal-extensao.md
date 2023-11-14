@@ -4,7 +4,7 @@ classes: wide
 header:
   teaser: "/assets/imgs/posts/premios-gerais/fapes-logo.jpg"
 categories:
-  - Notícias
+  - Blog
 tags:
   - UFES
   - FAPES

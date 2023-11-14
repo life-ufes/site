@@ -4,7 +4,7 @@ classes: wide
 header:
   teaser: "/assets/imgs/posts/premios-gerais/icepi-logo.png"
 categories:
-  - Notícias
+  - Blog
 tags:
   - UFES
   - ICEPi
