@@ -9,13 +9,16 @@ author_profile: true
 Atualmente, o laboratório conta com pesquisadores trabalhando em diferentes problemas. A seguir, são listados alguns dos principais projetos em andamento. Se você se interessar pelo tema, entre em contato com os pesquisadores envolvidos.
 
 ## Identificação automatizada de lesões de pele
-It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).
+Este projeto tem como objetivo o desenvolvimento de um sistema de análise e triagem de lesões de pele que permita profissionais generalistas da área de saúde identificar lesões suspeitas de câncer de pele de maneira mais adequada. Dentro do Life existe um projeto de extensão chamado [Padtech](https://pad.ufes.br/padtech/), que de maneira resumida, trabalha junto ao [PAD-UFES](https://pad.ufes.br/) no combate ao câncer de pele no estado do Espírito Santo. Este é um projeto muito grande que envolve a parceria com diversos órgãos públicos e privados.
+{: style="text-align: justify;"}
 
 **Pesquisadores responsáveis:** André Pacheco, Patrícia Lyra e Luís Souza
 
-## Desenvolvimento de algoritmos para monitoramento e promoção de saúde e bem estar
-Wearable devices
-It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).
+## Desenvolvimento de algoritmos de monitoramento para dispositivos vestíveis
+
+ O uso de dispositivos vestíveis (ou *wearable devices*), principalmente, *smartwatches* vem aumentando em uma taxa significativa nos últimos anos. [Um relatório recente](https://www.statista.com/statistics/487291/global-connected-wearable-devices/) mostra que o número de dispositivos aumentou de 325 milhões em 2016 para 722 milhões em 2019. Os *smartwatches* são os dispositivos mais comuns, com um volume de [68,59 milhões de unidades em 2020](https://www.reportlinker.com/p05285115/Wearable-Medical-Devices-Technologies-and-Global-Markets.html) e expectativas de atingir 230,30 milhões de unidades até 2026. Funcionalidades não invasivas e relacionadas ao monitoramento de sinais vitais e atividades físicas são os casos de uso mais populares desses dispositivos. Neste sentido, este projeto visa explorar o desenvolvimento de soluções para monitoramento e promoção de saúde e bem estar relacionados ao uso de dispositivos vestíveis.
+{: style="text-align: justify;"}
+
 
 **Pesquisadores responsáveis:** André Pacheco e Luís Souza
 
