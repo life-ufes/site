@@ -1,14 +1,29 @@
 version: "3.5"
 
 services:
-  blog:
+
+  site:
     build:
-      context: ./
+      context: ./docker/jekyll
+      dockerfile: Dockerfile
     ports:
-      - 80:4000
+      - 8080:4000
     volumes:
       - .:/usr/src/app
     stdin_open: true
     tty: true
     container_name: site-life
     command: bundle exec jekyll serve -H 0.0.0.0 -t
+
+  webhooker:
+    build:
+      context: ./docker/webhooker
+      dockerfile: Dockerfile
+    ports:
+      - 80:8000
+    volumes:
+      - .:/usr/src/app
+    stdin_open: true
+    tty: true
+    container_name: webhooker-life
+    command: uvicorn webhooker:app
