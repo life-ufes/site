@@ -170,3 +170,15 @@ Com este tutorial, e os links fornecidos nele, você já tem o que é necessári
 
 Por falar em modificações, uma vez finalizado as alterações, para publicá-las basta commitar o código para o repositório do mesmo que está na organização do Github do time. Se não houver erros, o site vai atualizar automaticamente (`wip`).
 
+# Como configurar o webhook
+
+Altere o arquivo de configuração do Git para permitir um pull dentro do container.
+
+```
+nano .git/config
+```
+E atualize:
+
+```
+url = https://<NOME_USUARIO>:<TOKEN></TOKEN>@github.com/life-ufes/site.git
+```
