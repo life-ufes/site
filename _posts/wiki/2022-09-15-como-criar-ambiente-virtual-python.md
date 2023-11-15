@@ -2,8 +2,7 @@
 title: Como criar um ambiente virtual em Python
 author: paaatcha
 classes: wide
-header:
-  teaser: "/assets/imgs/posts/conda.png"
+toc: true
 categories:
   - Wiki
 ---
