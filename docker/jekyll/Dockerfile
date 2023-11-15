@@ -6,5 +6,5 @@ ENV LANGUAGE en_US.UTF-8
 
 WORKDIR /usr/src/app
 
-COPY ../../Gemfile ../../minimal-mistakes-jekyll.gemspec ./
+COPY Gemfile minimal-mistakes-jekyll.gemspec ./
 RUN gem install bundler && bundle install
