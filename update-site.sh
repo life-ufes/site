@@ -1,4 +1,4 @@
 #!/bin/bash
 git pull
-docker restart blog
-docker-compose up -d
+#docker restart blog
+#docker-compose up -d
