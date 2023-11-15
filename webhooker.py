@@ -5,8 +5,8 @@ app = FastAPI()
 
 @app.post("/update")
 def update_site():
-    print("Updating site")
-    # os.system("git pull")    
+    print("Atualizando o site. Executando o comando git pull")
+    os.system("git pull")    
 
 
 @app.get("/it-works")
