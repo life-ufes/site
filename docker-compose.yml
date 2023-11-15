@@ -7,7 +7,7 @@ services:
       context: ./docker/jekyll
       dockerfile: Dockerfile
     ports:
-      - 8080:4000
+      - 80:4000
     volumes:
       - .:/usr/src/app
     stdin_open: true
@@ -20,7 +20,7 @@ services:
       context: ./docker/webhooker
       dockerfile: Dockerfile
     ports:
-      - 80:8000
+      - 8000:8000
     volumes:
       - .:/usr/src/app
     stdin_open: true
