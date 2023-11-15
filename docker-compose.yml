@@ -26,4 +26,4 @@ services:
     stdin_open: true
     tty: true
     container_name: webhooker-life
-    command: uvicorn webhooker:app --host 0.0.0.0 --port 8000
+    command: git config --global --add safe.directory /usr/src/app && uvicorn webhooker:app --host 0.0.0.0 --port 8000
