@@ -6,7 +6,7 @@ app = FastAPI()
 @app.webhooks.post("/update")
 def update_site():
     print("Updating site")
-    # os.system("git pull")   
+    ## os.system("git pull")   
 
 
 @app.get("/it-works")
