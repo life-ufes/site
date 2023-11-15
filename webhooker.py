@@ -11,5 +11,5 @@ def update_site():
 
 @app.get("/it-works")
 def it_works():
-    print("It works!") 
+    print("It works!")
     return {"message": "It works!"}
