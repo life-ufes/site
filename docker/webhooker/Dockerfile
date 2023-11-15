@@ -1,7 +1,4 @@
 FROM python:3.9
 WORKDIR /usr/src/app
 RUN pip install fastapi uvicorn 
-# CMD ["chmod", "+x", "/usr/src/app/update-site.sh"]
-
-COPY entrypoint.sh ./
-ENTRYPOINT [ "./entrypoint.sh" ]
+CMD ["git", "config", "--global", "--add", "safe.directory", "/usr/src/app"]
