@@ -7,9 +7,9 @@ services:
     container_name: sade-nginx-prod
     restart: unless-stopped
     ports:
-      - 81:80
+      - 81:81
       - 433:433
-      - 80:81
+      - 80:80
     volumes:      
       - ./nginx/data:/data
       - ./nginx/letsencrypt:/etc/letsencrypt
