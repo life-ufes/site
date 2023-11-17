@@ -24,7 +24,7 @@ services:
       context: ./docker/jekyll
       dockerfile: Dockerfile
     ports:
-      - 80:4000
+      - 4000:4000
     volumes:
       - .:/usr/src/app
     stdin_open: true
