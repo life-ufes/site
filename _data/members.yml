@@ -10,6 +10,11 @@ researchers:
     site: "http://www.fmtz.com.br/"
     desc: "Professor do Departamento de Informática (DI) da UFES"
 
+  - name: "Thiago Oliveira Santos"
+    photo: "thiago.png"
+    site: "http://www.inf.ufes.br/~todsantos/home-2"
+    desc: "Professor do Departamento de Informática (DI) e membro do Programa de Pós-Graduação em Informática (PPGI) da UFES"
+
   - name: "Luis Antonio de Souza Júnior"
     photo: "luis_souza.png"
     site: "#"
@@ -18,8 +23,10 @@ researchers:
   - name: "Patrícia Lyra"
     photo: "patricia.png"
     site: "http://lattes.cnpq.br/9185092341238832"    
-    desc: "Professora do Departamento de Medicina Especializada (DME) e Cirurgiã Plástica"  
+    desc: "Professora do Departamento de Medicina Especializada (DME), Cirurgiã Plástica e coordenadora do PAD-UFES"
+      
 
+collaborators:
   - name: "José Carlos Frasson"
     photo: "frasson.png"
     site: "#"    
@@ -38,7 +45,8 @@ researchers:
   - name: "Renata Scarpat Careta"
     photo: "renata.png"
     site: "http://lattes.cnpq.br/8994366988965721"    
-    desc: "Anatomopatologista do Laboratório de Patologia da UFES"       
+    desc: "Anatomopatologista do Laboratório de Patologia da UFES" 
+
 
 students:
   - name: "Gabriel Giorisatto de Angelo"
@@ -62,6 +70,7 @@ students:
     site: "https://github.com/TrarbachArthur"
     topics: "Machine Learning | Fusão de Dados | Classificação de câncer de pele"
     course: "Engenharia de Computação"
+    supervisors: "Andre Pacheco"
     level: "Graduação"
 
   - name: "Eduarda Pyrlo Magesk"
@@ -85,12 +94,14 @@ students:
     site: "https://github.com/EPGJ"
     topics: "Visualização de dados | Desenvolvimento web"
     course: "Engenharia da Computação"
+    supervisors: "Andre Pacheco"
     level: "Graduação"
 
   - name: "Matheus Luciano Sesana Goldner"
     site: "https://github.com/MatheusLSG"
     topics: "Fullstack development | Coleta de dados"
     course: "Ciência da Computação"
+    supervisors: "Andre Pacheco"
     level: "Graduação"
 
   - name: "Guilherme Caldana"
@@ -98,6 +109,7 @@ students:
     site: "https://github.com/caldgui"
     topics: "Fullstack development | Coleta de dados"
     course: "Engenharia Elétrica"
+    supervisors: "Andre Pacheco"
     level: "Graduação"
 
   - name: "Gabriel Schettino"
@@ -105,6 +117,7 @@ students:
     site: "https://github.com/gabrielschettino"
     topics: "Fullstack development | Coleta de dados"
     course: "Engenharia Elétrica"
+    supervisors: "Andre Pacheco"
     level: "Graduação"
 
   - name: "Gabryel Batista"
@@ -112,6 +125,7 @@ students:
     site: "https://github.com/gabryelfbatista"
     topics: "Fullstack development | Coleta de dados"
     course: "Engenharia Elétrica"
+    supervisors: "Andre Pacheco"
     level: "Graduação"
 
 alumni:

@@ -2,7 +2,24 @@ version: "3.5"
 
 services:
 
+  nginx:
+    image: 'jc21/nginx-proxy-manager:latest'
+    container_name: sade-nginx-prod
+    restart: unless-stopped
+    ports:
+      - 81:80
+      - 433:433
+      - 80:81
+    volumes:      
+      - ./nginx/data:/data
+      - ./nginx/letsencrypt:/etc/letsencrypt
+    depends_on:
+      - site  
+
   site:
+    image: site-site
+    container_name: site-life
+    restart: unless-stopped
     build:
       context: ./docker/jekyll
       dockerfile: Dockerfile
@@ -11,11 +28,13 @@ services:
     volumes:
       - .:/usr/src/app
     stdin_open: true
-    tty: true
-    container_name: site-life
+    tty: true    
     command: bundle exec jekyll serve -H 0.0.0.0 -t
 
   webhooker:
+    image: site-webhooker
+    container_name: webhooker-life  
+    restart: unless-stopped  
     build:
       context: ./docker/webhooker
       dockerfile: Dockerfile
@@ -24,6 +43,5 @@ services:
     volumes:
       - .:/usr/src/app
     stdin_open: true
-    tty: true
-    container_name: webhooker-life    
+    tty: true    
     entrypoint: ["bash", "-c", "git config --global --add safe.directory /usr/src/app && uvicorn webhooker:app --host 0.0.0.0 --port 8000"] 

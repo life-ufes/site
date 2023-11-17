@@ -16,10 +16,14 @@ A seguir você encontra a lista completa de todos os membros e ex-membros do lab
 ## Membros seniors
 {% include researchers.html %}
 
-## Alunos
 
+## Colaboradores
+{% include collaborators.html %}
+
+
+## Alunos
 {% include students.html %}
 
-## Egressos
 
+## Egressos
 {% include alumni.html %}
