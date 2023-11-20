@@ -22,10 +22,12 @@ Este projeto tem como objetivo o desenvolvimento de um sistema de análise e tri
 
 **Pesquisadores responsáveis:** André Pacheco e Luís Souza
 
+## Identificação de lesões de câncer de esofago e estômago
+
+Este projeto tem como objetivo o desenvolvimento de um sistema de análise e triagem de lesões cancerígenas de esôfago e estômago em pacientes diagnosticados com esôfago de Barrett, visando o auxílio no diagnóstico precoce de adenocarcinoma de forma precisa e menos onerosa por profissionais da área de saúde. Este projeto vem sendo desenvolvido desde 2016 em uma parceria com duas universidades externas a UFES: a UNESP (estadual de São Paulo), e a Ostbayerische Technische Hochschule Regensburg (Alemanha), representadas pelos pesquisadores João Paulo Papa e Christoph Palm, respectivamente. Vislumbra-se, a longo prazo, expandir as possibilidades e modalidades de câncer a serem diagnosticas para as regiões endoscópicas, fortalecendo a parceria do Life com universidades brasileiras e internacionais, além de instituições do setor privado que financiem esta iniciativa.
+
+**Pesquisadores responsáveis:** Luís Souza e André Pacheco
+
 ## Hemorragia cerebral
-
-Pesquisadores responsáveis:
-
-## Câncer de esofago e estomago etc
 
 Pesquisadores responsáveis:
