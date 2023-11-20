@@ -30,4 +30,4 @@ Este projeto tem como objetivo o desenvolvimento de um sistema de análise e tri
 
 ## Hemorragia cerebral
 
-Pesquisadores responsáveis:
+Pesquisadores responsáveis: 
