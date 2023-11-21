@@ -25,9 +25,20 @@ Este projeto tem como objetivo o desenvolvimento de um sistema de análise e tri
 ## Identificação de lesões de câncer de esofago e estômago
 
 Este projeto tem como objetivo o desenvolvimento de um sistema de análise e triagem de lesões cancerígenas de esôfago e estômago em pacientes diagnosticados com esôfago de Barrett, visando o auxílio no diagnóstico precoce de adenocarcinoma de forma precisa e menos onerosa por profissionais da área de saúde. Este projeto vem sendo desenvolvido desde 2016 em uma parceria com duas universidades externas a UFES: a UNESP (estadual de São Paulo), e a Ostbayerische Technische Hochschule Regensburg (Alemanha), representadas pelos pesquisadores João Paulo Papa e Christoph Palm, respectivamente. Vislumbra-se, a longo prazo, expandir as possibilidades e modalidades de câncer a serem diagnosticas para as regiões endoscópicas, fortalecendo a parceria do Life com universidades brasileiras e internacionais, além de instituições do setor privado que financiem esta iniciativa.
+{: style="text-align: justify;"}
 
 **Pesquisadores responsáveis:** Luís Souza e André Pacheco
 
-## Hemorragia cerebral
+## Identificação e Classificação de Hemorragias Intracranianas em Tomografias Computadorizadas do Crânio
 
-Pesquisadores responsáveis: 
+Hemorragias intracranianas (HICs) são uma condição médica grave que pode levar a sequelas ou até mesmo à morte se não tratadas de forma ágil. Estatísticas do Ministério da Saúde do Brasil indicam que HICs são uma das principais causas de morte em adultos no país. Em 2018, foram registrados 197 mil atendimentos no Sistema Único de Saúde (SUS) relacionados à condição. Este projeto tem como objetivo desenvolver e avaliar algoritmos de inteligência artificial capazes de identificar e classificar automaticamente HICs a partir da análise de tomografias computadorizadas do crânio sem contraste. Se bem sucedidos, tais algoritmos poderiam ser usados para priorizar o atendimento de radiologistas de forma que casos mais graves fossem diagnosticados e tratados mais cedo. 
+{: style="text-align: justify;"}
+
+**Pesquisadores responsáveis:** Filipe Mutz 
+
+## Sistema de Informação para Apoio Didático-Pedagógico na Formação em Fonoaudiologia e para Suporte à Terapia Fonoaudiológica
+
+Este projeto tem como objetivo criar um sistema de informação _web_ chamado SARA (Sistema Auxiliar para a Reabilitação Auditiva) para dar suporte ao processo didático-pedagógico da formação em saúde e na realização de atividades junto a pessoas com deficiência auditiva nas sessões de fonoterapia. Espera-se que a ferramenta ajude no planejamento, execução e avaliação das sessões de reabilitação auditiva, facilitando a integração de informações importantes para o desenvolvimento das habilidades auditivas e linguagem verbal oral dos pacientes. Os dados coletados com o SARA poderão ser utilizados em processos de avaliação, acompanhamento e melhoria contínua da formação em saúde, particularmente em cenários de estágio. O projeto foi fruto de uma parceria interdisciplinar entre o Departamento de Informática e o Departamento de Fonoaudiologia da Universidade Federal do Espírito Santo. 
+{: style="text-align: justify;"}
+
+**Pesquisadores responsáveis:** Filipe Mutz e Aline Almeida
