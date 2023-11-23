@@ -1,4 +1,7 @@
 
+
+nginx/*
+
 #Python
 __pycache__/*
 
