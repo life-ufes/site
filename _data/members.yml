@@ -119,6 +119,30 @@ students:
     course: "Engenharia de Computação"
     supervisors: "Andre Pacheco"
     level: "Graduação"
+
+  - name: "Renan Souza Vieira"
+    photo: "renan.gif"
+    site: "http://lattes.cnpq.br/3113715246348154"
+    topics: "Estudo clínico | Coleta de dados"
+    course: "Medicina"
+    supervisors: "Andre Pacheco e Patricia Lyra"
+    level: "Graduação"
+
+  - name: "Juliana Duarte Geller"
+    photo: "juliana.jpg"
+    site: "http://lattes.cnpq.br/6733249836692802"
+    topics: "Estudo clínico | Coleta de dados"
+    course: "Medicina"
+    supervisors: "Andre Pacheco e Patricia Lyra"
+    level: "Graduação"
+
+  - name: "Amanda Lima Mutz"
+    photo: "amanda.jpg"
+    site: "http://lattes.cnpq.br/1807546585281240"
+    topics: "Estudo clínico | Coleta de dados"
+    course: "Medicina"
+    supervisors: "Andre Pacheco e Patricia Lyra"
+    level: "Graduação"   
     
 
 alumni:
