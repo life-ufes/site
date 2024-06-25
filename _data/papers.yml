@@ -7,6 +7,11 @@
 #   presentation:
 
 papers:
+  - title: "DeepCraftFuse: visual and deeply-learnable features work better together for esophageal cancer detection in patients with Barrett’s esophagus"
+    authors: "Luis A Souza Jr, André GC Pacheco, Leandro A Passos, Marcos CS Santana, Robert Mendel, Alanna Ebigbo, Andreas Probst, Helmut Messmann, Christoph Palm, João Paulo Papa"
+    link: "https://link.springer.com/article/10.1007/s00521-024-09615-z"
+    place: "Neural Computing and Applications"
+
   - title: "SADE: Software de Análise Dermatológica - Um sistema de coleta, gerenciamento e triagem de lesões de pele"
     authors: "Andre G. C. Pacheco, Clayton Oliveira Vicente, Eduarda Pylro Magesk, Gabriel Schettino Lucas e Guilherme Teixeira Caldana, Patricia H. L. Frasson"
     link: "https://sol.sbc.org.br/index.php/webmedia_estendido/article/view/25686"
