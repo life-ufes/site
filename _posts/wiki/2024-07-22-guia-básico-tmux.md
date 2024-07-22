@@ -111,7 +111,7 @@ O TMUX é altamente configurável e suporta muitos atalhos de teclado para facil
 
 Para mais informações sobre o TMUX e seus recursos avançados, você pode consultar os seguintes recursos:
 
-- [Documentação oficial do TMUX]([https](https://github.com/tmux/tmux/wiki)]
+- [Documentação oficial do TMUX](https://github.com/tmux/tmux/wiki)
 - [Guia de referência rápida do TMUX](https://tmuxcheatsheet.com/)
 - [Tutorial do TMUX no Hostinger](https://www.hostinger.com.br/tutoriais/como-usar-tmux-lista-de-comandos)
 
