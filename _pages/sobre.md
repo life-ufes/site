@@ -24,10 +24,11 @@ Para mais informações sobre os principais projetos em andamento, consulte a p�
 
 # Fomento
 
-Desde a sua criação, o laboratório conta com o apoio financeiro de duas agências de fomento:
+Desde a sua criação, o laboratório conta com o apoio financeiro de diversos órgãos públicos de fomento a pesquisa e desenvolvimento tecnológico:
 {: style="text-align: justify;"}
 
 ![apoio](/assets/imgs/apoio.png)
+
 
 
 
