@@ -15,7 +15,7 @@ Um ambiente virtual (ou em inglês *virtual environment*) pode ser criado a usan
 
 Antes de mais nada, duas observações imporantes:
 
-- **Observação 1:** obviamente, para criar um ambiente virtual com `conda` você precisa ter o gerenciador instalado na sua máquina. Você pode obter isso instaland o [miniconda](https://docs.conda.io/en/latest/miniconda.html#installing) ou o [anaconda](https://www.anaconda.com/products/individual).
+- **Observação 1:** obviamente, para criar um ambiente virtual com `conda` você precisa ter o gerenciador instalado na sua máquina. Você pode obter isso instalando o [miniconda](https://docs.conda.io/en/latest/miniconda.html#installing) ou o [anaconda](https://www.anaconda.com/products/individual).
   
 - **Observação 2:** esse tutorial é um resumo da documentação oficial do `conda`. Portanto, para uma versão mais completa, [acesse aqui](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#specifying-a-location-for-an-environmenthttps://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#specifying-a-location-for-an-environment)
 
