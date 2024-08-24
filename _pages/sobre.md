@@ -27,12 +27,7 @@ Para mais informações sobre os principais projetos em andamento, consulte a p�
 Desde a sua criação, o laboratório conta com o apoio financeiro de diversos órgãos públicos de fomento a pesquisa e desenvolvimento tecnológico:
 {: style="text-align: justify;"}
 
-![apoio](/assets/imgs/apoio.png)
 
-
-
-
-
-
+![apoio](/assets/imgs/apoio.png){: .align-center}
 
 
