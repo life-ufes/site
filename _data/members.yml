@@ -5,6 +5,11 @@ researchers:
     site: "http://pachecoandre.com.br"
     desc: "Professor do Departamento de Informática (DI) e membro do Programa de Pós-Graduação em Informática (PPGI) da UFES"
 
+  - name: "Luis Antonio de Souza Júnior"
+    photo: "luis_souza.png"
+    site: "#"
+    desc: "Professor do Departamento de Informática (DI) da UFES"    
+
   - name: "Filipe Wall Mutz"
     photo: "filipe_mutz.png"
     site: "http://www.fmtz.com.br/"
@@ -13,12 +18,7 @@ researchers:
   - name: "Thiago Oliveira Santos"
     photo: "thiago.png"
     site: "http://www.inf.ufes.br/~todsantos/home-2"
-    desc: "Professor do Departamento de Informática (DI) e membro do Programa de Pós-Graduação em Informática (PPGI) da UFES"
-
-  - name: "Luis Antonio de Souza Júnior"
-    photo: "luis_souza.png"
-    site: "#"
-    desc: "Professor do Departamento de Informática (DI) da UFES"
+    desc: "Professor do Departamento de Informática (DI) e membro do Programa de Pós-Graduação em Informática (PPGI) da UFES"  
 
   - name: "Patrícia Lyra"
     photo: "patricia.png"
