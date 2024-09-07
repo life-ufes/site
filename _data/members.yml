@@ -1,4 +1,3 @@
-
 researchers:
   - name: "Andre G. C. Pacheco"
     photo: "andre_pacheco.png"
@@ -8,7 +7,7 @@ researchers:
   - name: "Luis Antonio de Souza Júnior"
     photo: "luis_souza.png"
     site: "#"
-    desc: "Professor do Departamento de Informática (DI) da UFES"    
+    desc: "Professor do Departamento de Informática (DI) e membro do Programa de Pós-Graduação em Informática (PPGI) da UFES"
 
   - name: "Filipe Wall Mutz"
     photo: "filipe_mutz.png"
@@ -18,35 +17,38 @@ researchers:
   - name: "Thiago Oliveira Santos"
     photo: "thiago.png"
     site: "http://www.inf.ufes.br/~todsantos/home-2"
-    desc: "Professor do Departamento de Informática (DI) e membro do Programa de Pós-Graduação em Informática (PPGI) da UFES"  
+    desc: "Professor do Departamento de Informática (DI) e membro do Programa de Pós-Graduação em Informática (PPGI) da UFES"
 
   - name: "Patrícia Lyra"
     photo: "patricia.png"
-    site: "http://lattes.cnpq.br/9185092341238832"    
+    site: "http://lattes.cnpq.br/9185092341238832"
     desc: "Professora do Departamento de Medicina Especializada (DME), Cirurgiã Plástica e coordenadora do PAD-UFES"
-      
 
 collaborators:
+  - name: "Cândida Caniçali Primo"
+    photo: "candida.png"
+    site: "#"
+    desc: "Professora do Departamento de Enfermagem e Programas de Pós-graduação em Enfermagem e Saúde Coletiva"
+
   - name: "José Carlos Frasson"
     photo: "frasson.png"
-    site: "#"    
-    desc: "Cirurgião Pediátrico e membro do Padtech"     
+    site: "https://scholar.google.com.br/citations?user=q13cu80AAAAJ&hl=pt-BR"
+    desc: "Cirurgião Pediátrico e membro do Padtech"
 
   - name: "Vitor Fiorin de Vasconcellos"
     photo: "vitor.png"
-    site: "http://lattes.cnpq.br/4440628795817010"    
-    desc: "Professor do Departamento de Clínica Médica da UFES e Oncologista" 
+    site: "http://lattes.cnpq.br/4440628795817010"
+    desc: "Professor do Departamento de Clínica Médica da UFES e Oncologista"
 
   - name: "Aloísio Falqueto"
     photo: "falqueto.png"
-    site: "http://lattes.cnpq.br/7897153591613337"    
-    desc: "Professor do Departamento de Medicina Social da UFES e Infectologista"    
+    site: "http://lattes.cnpq.br/7897153591613337"
+    desc: "Professor do Departamento de Medicina Social da UFES e Infectologista"
 
   - name: "Renata Scarpat Careta"
     photo: "renata.png"
-    site: "http://lattes.cnpq.br/8994366988965721"    
-    desc: "Anatomopatologista do Laboratório de Patologia da UFES" 
-
+    site: "http://lattes.cnpq.br/8994366988965721"
+    desc: "Anatomopatologista do Laboratório de Patologia da UFES"
 
 students:
   - name: "Gabriel Giorisatto de Angelo"
@@ -142,13 +144,12 @@ students:
     topics: "Estudo clínico | Coleta de dados"
     course: "Medicina"
     supervisors: "Andre Pacheco e Patricia Lyra"
-    level: "Graduação"   
-    
+    level: "Graduação"
 
 alumni:
   - name: "Luiz Gabriel Bandeira"
     photo: "luiz_bandeira.jpeg"
-    site: "https://github.com/LuizGBR"    
+    site: "https://github.com/LuizGBR"
     course: "Engenharia de Computação"
     supervisors: "Andre Pacheco"
     resultado: "Análise de transferência de aprendizado com rótulos fracos para classificação de câncer de pele"
@@ -156,7 +157,7 @@ alumni:
 
   - name: "Clayton Oliveira Vicente"
     photo: "clayton_vicente.jpeg"
-    site: "#"    
+    site: "#"
     course: "Medicina"
     supervisors: "Andre Pacheco"
     resultado: "Desenvolvimento da plataforma de coleta de dados SADE"
@@ -164,14 +165,14 @@ alumni:
 
   - name: "Gabryel Batista"
     photo: "gabryel_batista.jpeg"
-    site: "https://github.com/gabryelfbatista"    
-    course: "Engenharia Elétrica"    
+    site: "https://github.com/gabryelfbatista"
+    course: "Engenharia Elétrica"
     supervisors: "Andre Pacheco"
     resultado: "Desenvolvimento da plataforma de coleta de dados SADE"
     link: "https://sol.sbc.org.br/index.php/webmedia_estendido/article/view/25686"
 
   - name: "Matheus Luciano Sesana Goldner"
-    site: "https://github.com/MatheusLSG"    
+    site: "https://github.com/MatheusLSG"
     course: "Ciência da Computação"
     supervisors: "Andre Pacheco"
     resultado: "Desenvolvimento da plataforma de coleta de dados SADE"
@@ -179,7 +180,7 @@ alumni:
 
   - name: "Elias Pereira Júnior"
     photo: "elias_junior.jpeg"
-    site: "https://github.com/EPGJ"    
+    site: "https://github.com/EPGJ"
     course: "Engenharia da Computação"
     supervisors: "Andre Pacheco"
     resultado: "Desenvolvimento de uma ferramenta para visualização de dados do Programa de Assistência Cirúrgica e Dermatológica da UFES"
