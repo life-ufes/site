@@ -65,15 +65,7 @@ students:
     topics: "Machine Learning | Aprendizado auto-supervisionado | Classificação de câncer de pele"
     course: "Engenharia de Computação"
     supervisors: "Andre Pacheco e Luis Souza"
-    level: "Graduação"
-
-  - name: "Arthur Trarbach Sampaio"
-    photo: "arthur_trarbach.jpeg"
-    site: "https://github.com/TrarbachArthur"
-    topics: "Machine Learning | Fusão de Dados | Classificação de câncer de pele"
-    course: "Engenharia de Computação"
-    supervisors: "Andre Pacheco"
-    level: "Graduação"
+    level: "Graduação"  
 
   - name: "Eduarda Pyrlo Magesk"
     photo: "eduarda_magesky.png"
