@@ -114,14 +114,6 @@ students:
     supervisors: "Andre Pacheco e Luis Souza"
     level: "Graduação"
 
-  - name: "João Ubaldo Xavier"
-    photo: "joao.jpeg"
-    site: "https://br.linkedin.com/in/joao-xreis"
-    topics: "Desenvolvimento Mobile | Smartwatches | Coleta de dados"
-    course: "Engenharia de Computação"
-    supervisors: "Andre Pacheco"
-    level: "Graduação"
-
   - name: "Renan Souza Vieira"
     photo: "renan.gif"
     site: "http://lattes.cnpq.br/3113715246348154"
