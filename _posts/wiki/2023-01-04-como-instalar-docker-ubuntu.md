@@ -114,6 +114,36 @@ Se você quiser adicionar outro usuário, basta substituir `${USER}` pelo nome d
 Para as alterações terem efeito, é necessário fazer logout e login novamente. 
 
 
+## Instalando o Docker Compose
+
+O Docker Compose é uma ferramenta que permite definir e executar aplicativos Docker multi-container. Para instalar o Docker Compose, execute os seguintes comandos:
+
+#### Passo 1
+
+Baixe a versão que deseja instalar. Neste caso, estou baixando a versão 1.29.2:
+
+```
+sudo curl -L "https://github.com/docker/compose/releases/download/1.29.2/docker-compose-$(uname -s)-$(uname -m)" -o /usr/local/bin/docker-compose
+```
+
+#### Passo 2
+
+Atribua permissões de execução ao binário:
+
+```
+sudo chmod +x /usr/local/bin/docker-compose
+```
+
+#### Passo 3
+
+Verifique se a instalação foi bem sucedida:
+
+```
+docker-compose --version
+```
+
+Se tudo deu certo, você verá a versão do Docker Compose que você acabou de instalar.
+
 
 
 
