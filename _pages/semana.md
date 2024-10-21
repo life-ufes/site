@@ -31,7 +31,7 @@ ____
 
 - **Palestra**: O contexto atual da aplicação de *Large Language Models* (LLMs) para a soluçao de problemas na área médica: apresentação do Dr. Bode
   
-  - **Palestrantes**: Gabriel Lino e João Renato Manesco
+  - **Palestrantes**: [Gabriel Lino](https://www.linkedin.com/in/gabriel-lino-garcia-499266183/) e [João Renato Manesco](https://www.linkedin.com/in/joao-renato/)
   - **Afiliação**: Doutorando Universidade Estadual Paulista (USP) - Campus de Bauru. Orientados pelo Prof. Dr. João Paulo Papa
   - **Público Alvo**: qualquer pessoa que se interessa pelo tema
   - **Local**: remoto - [https://meet.google.com/cvm-tzmg-epx](https://meet.google.com/cvm-tzmg-epx)
