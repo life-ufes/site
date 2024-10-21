@@ -1,0 +1,84 @@
+---
+layout: single
+classes: wide
+permalink: /semana/
+title: "1ª Semana de Informática em Saúde - CT/UFES"
+author_profile: true
+header:
+  image: /assets/imgs/semana-saude/banner-semana-info.png
+---
+
+Na semana dos dias 11 a 14 de novembro de 2024 acontecerá no Centro Tecnológico (CT) da Universidade Federal do Espírito Santo (UFES) a **1ª Semana de Informática em Saúde**. O evento está sendo organizado pelo Laboratório de Informática em Saúde (LIFE) e tem como objetivo promover a integração entre a comunidade acadêmica, profissionais e a comunidade externa através de palestras, apresentações de projetos, minicursos e oficinas. Além do LIFE, o evento conta com participação de outros laboratórios e projetos da UFES, como o [Human Centered Systems Lab (HCS)](https://www.instagram.com/hcs.ufes/) e o [Padtech](https://www.instagram.com/padtechufes/), e parceiros externos como o [ICEPi - Instituto Capixaba de Ensino, Pesquisa e Inovação em Saúde](https://icepi.es.gov.br/).
+
+
+O evento é 100% gratuito e ocorre dentro da [Semana do Conhecimento da UFES](https://www.ufes.br/conteudo/semana-do-conhecimento-2024-acontece-em-novembro-nos-quatro-campi-da-ufes-agende-se) e a mostra de projetos será parte do [CT de Portas abertas](https://www.instagram.com/ct.ufes/p/Cyg1Z2rPVn4/?img_index=1). Será uma oportunidade para conhecer mais sobre a área de Informática em Saúde e suas aplicações, bem como interagir com profissionais e pesquisadores da área. A programação completa é descrita a seguir, com eventos para diversos públicos alvos.
+
+## Programação
+
+#### Segunda-feira (11/11/2024)
+
+- **Minicurso**: tutorial de implementação de modelo de aprendizado profundo para a classificação de imagens médicas utilizando Pytorch
+
+    - **Descrição**: será ministrada uma aula-tutorial com os conceitos básicos para a construção de um modelo de inteligência aritficial, especificamente de aprendizado profundo, para a classificação de imagens médicas (com foco na classificação de imagens de câncer no esôfago como exemplo didático). Após o minicurso, os alunos estarão aptos a generalizar o conhecimento para a construção de modelos baseados em aprendizado profundo para a classificação de outros problemas baseados na descrição de imagens.
+  - **Público alvo**: alunos de graduação e pós-graduação com conhecimentos básicos de programação.
+  - **Local**: à definir
+  - **Horários**: 9h às 11h e 13h30 às 15h30
+  - **Vagas**: 30 por turma
+  - **Inscrição**: [https://forms.gle/vDSh6XyFfuTu3pFz6](https://forms.gle/vDSh6XyFfuTu3pFz6)
+
+
+____
+
+- **Palestra**: O contexto atual da aplicação de *Large Language Models* (LLMs) para a soluçao de problemas na área médica: apresentação do Dr. Bode
+  
+  - **Palestrantes**: Gabriel Lino e João Renato Manesco
+  - **Afiliação**: Doutorando Universidade Estadual Paulista (USP) - Campus de Bauru. Orientados pelo Prof. Dr. João Paulo Papa
+  - **Público Alvo**: qualquer pessoa que se interessa pelo tema
+  - **Local**: remoto - [https://meet.google.com/cvm-tzmg-epx](https://meet.google.com/cvm-tzmg-epx)
+  - **Horário**: 19h
+
+#### Terça-feira (12/11/2024) e Quarta-feira (13/11/2024)
+
+- **Mostra de projetos**: apresentação de projetos de pesquisa desenvolvidos na UFES durante o CT de portas abertas 2024. Haverá uma trilha específica para projetos de informática em saúde, com apresentações de projetos do LIFE, HCS e Padtech.
+
+  - **Local**: CT-XIII
+  - **Horário**: 9h às 16h
+  - **Público alvo**: qualquer pessoa interessada em conhecer projetos de pesquisa desenvolvidos na UFES. As trilhas serão realizadas com alunos do Ensino Fundamental e Médio. 
+  - **Inscrição**: não é necessária, basta comparecer no local
+
+___ 
+
+Principais projetos a serem apresentados:
+
+- **vWalker**: é um andador robótico que auxilia na mobilidade de pessoas com dificuldades motoras, integrando sensores para segurança e uma interface de realidade virtual (RV). Ele usa jogos sérios para ensinar o uso do dispositivo de forma interativa e realista, ajustando a dificuldade conforme o usuário interage com obstáculos. Essa combinação de tecnologia assistiva e RV aprimora a reabilitação, aumentando a confiança e o engajamento.
+
+- **Software de triagem de lesões de pele**: é um software que utiliza técnicas de processamento de imagens para auxiliar na triagem de lesões de pele. O software é capaz de identificar lesões suspeitas e classificá-las de acordo com o risco de malignidade. O objetivo é auxiliar profissionais da saúde na identificação precoce de lesões de pele malignas, aumentando a eficácia do diagnóstico e tratamento.
+
+- **Caça Dengue**: jogo educativo desenvolvido pela Secretaria da Saúde do Espírito Santo (Sesa) em parceria com o ICEPi, que ensina de forma lúdica sobre a prevenção da dengue e o combate ao mosquito Aedes aegypti. Voltado para crianças, adolescentes, famílias, agentes de saúde e educadores, o jogo oferece mini-jogos interativos abordando temas como identificação de focos do mosquito e ações preventivas.
+
+- **Apresentação de equipamentos**: apresentação de equipamentos de coleta de dados em saúde, como dermatoscópios, microscópios, dados de scanners de alta resolução, etc, que são utilizados no desenvolvimento de projetos de pesquisa em informática em saúde. Os participantes poderão interagir com os equipamentos e conhecer mais sobre as tecnologias utilizadas na área.
+
+
+
+#### Quinta-feira (14/11/2024)
+
+- **Workshop**: Construção de datasets na área de saúde: oportunidades, desafios e boas práticas
+
+  - **Descrição**: o workshop tem como objetivo discutir a importância da construção de datasets na área de saúde, apresentar oportunidades e desafios relacionados à coleta e organização de dados, e discutir boas práticas para a construção de datasets de qualidade. Serão apresentados casos de sucesso e desafios enfrentados na construção de datasets para aplicações em saúde.
+  - **Público alvo**: pesquisadores, profissionais da saúde, estudantes de graduação e pós-graduação interessados no tópico
+  - **Local**: auditório do CT-XIII
+  - **Horário**: 13h às 17h
+  - **Vagas**: 30
+  - **Inscrição**: [https://forms.gle/bXSoRbNTUkgcfezMA](https://forms.gle/bXSoRbNTUkgcfezMA)
+
+____
+- Agenda do Workshop:
+  - 13h às 13:30h: abertura e introdução dos participantes
+  - 13:30h às 14h: banco de imagens médicas: oportunidades e desafios
+  - 15h às 15:45h: boas práticas para a construção de datasets de qualidade
+  - 15:45h às 17h: discussão e atividade em grupos
+  - 17h: encerramento e coffee break
+
+
+
+

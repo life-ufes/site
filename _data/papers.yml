@@ -7,6 +7,11 @@
 #   presentation:
 
 papers:
+  - title: "LiwTERM: A Lightweight Transformer-based Model for Dermatological Multimodal Lesion Detection"
+    authors: "Luis A. de Souza Jr., André GC Pacheco, Gabriel G. de Angelo, Thiago Oliveira-Santos, Christoph Palm & João P. Papa"
+    link: "http://sibgrapi.sid.inpe.br/col/sid.inpe.br/sibgrapi/2024/08.28.21.03/doc/souza-19_clean.pdf"
+    place: "SIBGRAPI 2024"
+
   - title: "Retraction Note: Learning visual representations with optimum-path forest and its applications to Barrett’s esophagus and adenocarcinoma diagnosis"
     authors: "Luis A. de Souza Jr., Luis C. S. Afonso, Alanna Ebigbo, Andreas Probst, Helmut Messmann, Robert Mendel, Christian Hook, Christoph Palm & João P. Papa"
     link: "https://link.springer.com/article/10.1007/s00521-024-10343-7"
