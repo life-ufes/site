@@ -34,7 +34,7 @@ ____
   - **Palestrantes**: [Gabriel Lino](https://www.linkedin.com/in/gabriel-lino-garcia-499266183/) e [João Renato Manesco](https://www.linkedin.com/in/joao-renato/)
   - **Afiliação**: Doutorando Universidade Estadual Paulista (USP) - Campus de Bauru. Orientados pelo Prof. Dr. João Paulo Papa
   - **Público Alvo**: qualquer pessoa que se interessa pelo tema
-  - **Local**: remoto - [https://meet.google.com/cvm-tzmg-epx](https://meet.google.com/cvm-tzmg-epx)
+  - **Local**: [Canal do LIFE no Youtube](https://www.youtube.com/@life-ufes) - [Clique aqui para adicionar na sua agenda](https://calendar.google.com/calendar/event?action=TEMPLATE&amp;tmeid=M3ZrdHAxMjVhNW1yZDFkdGVlNW11ZDF1cjkgbGlmZUBpbmYudWZlcy5icg&amp;tmsrc=life%40inf.ufes.br).
   - **Horário**: 19h
 
 #### Terça-feira (12/11/2024) e Quarta-feira (13/11/2024)
