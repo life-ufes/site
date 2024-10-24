@@ -1,7 +1,7 @@
 ---
 layout: single
 classes: wide
-permalink: /semana/
+permalink: /sis/
 title: "1ª Semana de Informática em Saúde - CT/UFES"
 author_profile: true
 header:
@@ -32,7 +32,7 @@ ____
 - **Palestra**: O contexto atual da aplicação de *Large Language Models* (LLMs) para a soluçao de problemas na área médica: apresentação do Dr. Bode
   
   - **Palestrantes**: [Gabriel Lino](https://www.linkedin.com/in/gabriel-lino-garcia-499266183/) e [João Renato Manesco](https://www.linkedin.com/in/joao-renato/)
-  - **Afiliação**: Doutorando Universidade Estadual Paulista (USP) - Campus de Bauru. Orientados pelo Prof. Dr. João Paulo Papa
+  - **Afiliação**:Universidade de São Paulo (USP) - Campus de Bauru
   - **Público Alvo**: qualquer pessoa que se interessa pelo tema
   - **Local**: [Canal do LIFE no Youtube](https://www.youtube.com/@life-ufes) - [Clique aqui para adicionar na sua agenda](https://calendar.google.com/calendar/event?action=TEMPLATE&amp;tmeid=M3ZrdHAxMjVhNW1yZDFkdGVlNW11ZDF1cjkgbGlmZUBpbmYudWZlcy5icg&amp;tmsrc=life%40inf.ufes.br).
   - **Horário**: 19h
@@ -55,6 +55,8 @@ Principais projetos a serem apresentados:
 - **Software de triagem de lesões de pele**: é um software que utiliza técnicas de processamento de imagens para auxiliar na triagem de lesões de pele. O software é capaz de identificar lesões suspeitas e classificá-las de acordo com o risco de malignidade. O objetivo é auxiliar profissionais da saúde na identificação precoce de lesões de pele malignas, aumentando a eficácia do diagnóstico e tratamento.
 
 - **Caça Dengue**: jogo educativo desenvolvido pela Secretaria da Saúde do Espírito Santo (Sesa) em parceria com o ICEPi, que ensina de forma lúdica sobre a prevenção da dengue e o combate ao mosquito Aedes aegypti. Voltado para crianças, adolescentes, famílias, agentes de saúde e educadores, o jogo oferece mini-jogos interativos abordando temas como identificação de focos do mosquito e ações preventivas.
+
+- **Software para Agilizar a Identificação de Hemorragias Intracranianas**: Hemorragias intracranianas são lesões  que podem levar a sequelas graves e até à morte. A agilidade na identificação da lesão e início do tratamento é um dos principais fatores para reduzir seus efeitos negativos. Este software utiliza redes neurais artificiais para analisar  tomografias computadorizadas do crânio e calcular a probabilidade de existência de hemorragias nos exames. A fila de atendimento de médicos radiologistas é ordenada com base nestas probabilidades. Com objetivo de auxiliar os médicos na análise das imagens, o software ainda destaca as regiões com indícios de sangramento.
 
 - **Apresentação de equipamentos**: apresentação de equipamentos de coleta de dados em saúde, como dermatoscópios, microscópios, dados de scanners de alta resolução, etc, que são utilizados no desenvolvimento de projetos de pesquisa em informática em saúde. Os participantes poderão interagir com os equipamentos e conhecer mais sobre as tecnologias utilizadas na área.
 
