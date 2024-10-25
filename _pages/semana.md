@@ -8,7 +8,7 @@ header:
   image: /assets/imgs/semana-saude/banner-semana-info.png
 ---
 
-Na semana dos dias 11 a 14 de novembro de 2024 acontecerá no Centro Tecnológico (CT) da Universidade Federal do Espírito Santo (UFES) a **1ª Semana de Informática em Saúde**. O evento está sendo organizado pelo Laboratório de Informática em Saúde (LIFE) e tem como objetivo promover a integração entre a comunidade acadêmica, profissionais e a comunidade externa através de palestras, apresentações de projetos, minicursos e oficinas. Além do LIFE, o evento conta com participação de outros laboratórios e projetos da UFES, como o [Human Centered Systems Lab (HCS)](https://www.instagram.com/hcs.ufes/) e o [Padtech](https://www.instagram.com/padtechufes/), e parceiros externos como o [ICEPi - Instituto Capixaba de Ensino, Pesquisa e Inovação em Saúde](https://icepi.es.gov.br/).
+Na semana dos dias 11 a 14 de novembro de 2024 acontecerá no Centro Tecnológico (CT) da Universidade Federal do Espírito Santo (UFES) a **1ª Semana de Informática em Saúde**. O evento está sendo organizado pelo Laboratório de Informática em Saúde (LIFE) e tem como objetivo promover a integração entre a comunidade acadêmica, profissionais e a comunidade externa através de palestras, apresentações de projetos, minicursos e oficinas na área. Além do LIFE, o evento conta com participação de outros laboratórios e projetos da UFES, como o [Human Centered Systems Lab (HCS)](https://www.instagram.com/hcs.ufes/) e o [Padtech](https://www.instagram.com/padtechufes/), e parceiros externos como o [ICEPi - Instituto Capixaba de Ensino, Pesquisa e Inovação em Saúde](https://icepi.es.gov.br/).
 
 
 O evento é 100% gratuito e ocorre dentro da [Semana do Conhecimento da UFES](https://www.ufes.br/conteudo/semana-do-conhecimento-2024-acontece-em-novembro-nos-quatro-campi-da-ufes-agende-se) e a mostra de projetos será parte do [CT de Portas abertas](https://www.instagram.com/ct.ufes/p/Cyg1Z2rPVn4/?img_index=1). Será uma oportunidade para conhecer mais sobre a área de Informática em Saúde e suas aplicações, bem como interagir com profissionais e pesquisadores da área. A programação completa é descrita a seguir, com eventos para diversos públicos alvos.
@@ -32,7 +32,7 @@ ____
 - **Palestra**: O contexto atual da aplicação de *Large Language Models* (LLMs) para a soluçao de problemas na área médica: apresentação do Dr. Bode
   
   - **Palestrantes**: [Gabriel Lino](https://www.linkedin.com/in/gabriel-lino-garcia-499266183/) e [João Renato Manesco](https://www.linkedin.com/in/joao-renato/)
-  - **Afiliação**:Universidade de São Paulo (USP) - Campus de Bauru
+  - **Afiliação**: Universidade de São Paulo (USP) - Campus de Bauru
   - **Público Alvo**: qualquer pessoa que se interessa pelo tema
   - **Local**: [Canal do LIFE no Youtube](https://www.youtube.com/@life-ufes) - [Clique aqui para adicionar na sua agenda](https://calendar.google.com/calendar/event?action=TEMPLATE&amp;tmeid=M3ZrdHAxMjVhNW1yZDFkdGVlNW11ZDF1cjkgbGlmZUBpbmYudWZlcy5icg&amp;tmsrc=life%40inf.ufes.br).
   - **Horário**: 19h
@@ -70,7 +70,7 @@ Principais projetos a serem apresentados:
   - **Público alvo**: pesquisadores, profissionais da saúde, estudantes de graduação e pós-graduação interessados no tópico
   - **Local**: auditório do CT-XIII
   - **Horário**: 13h às 17h
-  - **Vagas**: 30
+  - **Vagas**: 40
   - **Inscrição**: [https://forms.gle/bXSoRbNTUkgcfezMA](https://forms.gle/bXSoRbNTUkgcfezMA)
 
 ____
