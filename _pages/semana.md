@@ -39,11 +39,11 @@ ____
 
 #### Terça-feira (12/11/2024) e Quarta-feira (13/11/2024)
 
-- **Mostra de projetos**: apresentação de projetos de pesquisa desenvolvidos na UFES durante o CT de portas abertas 2024. Haverá uma trilha específica para projetos de informática em saúde, com apresentações de projetos do LIFE, HCS e Padtech.
+- **Mostra de projetos**: apresentação de projetos de pesquisa desenvolvidos na UFES durante o CT de portas abertas 2024. Haverá uma trilha específica para projetos de informática em saúde, com apresentações de projetos do LIFE, HCS, Padtech e ICEPi.
 
   - **Local**: CT-XIII
   - **Horário**: 9h às 16h
-  - **Público alvo**: qualquer pessoa interessada em conhecer projetos de pesquisa desenvolvidos na UFES. As trilhas serão realizadas com alunos do Ensino Fundamental e Médio. 
+  - **Público alvo**: qualquer pessoa interessada em conhecer projetos de pesquisa desenvolvidos na UFES. As trilhas serão realizadas com alunos do Ensino Fundamental e Médio que estarão participando do CT de portas abertas.
   - **Inscrição**: não é necessária, basta comparecer no local
 
 ___ 
@@ -76,7 +76,7 @@ Principais projetos a serem apresentados:
 ____
 - Agenda do Workshop:
   - 13h às 13:30h: abertura e introdução dos participantes
-  - 13:30h às 14h: banco de imagens médicas: oportunidades e desafios
+  - 13:30h às 14h: Criando um banco de imagens médicas: oportunidades e desafios
   - 15h às 15:45h: boas práticas para a construção de datasets de qualidade
   - 15:45h às 17h: discussão e atividade em grupos
   - 17h: encerramento e coffee break
