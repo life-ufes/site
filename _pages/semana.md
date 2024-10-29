@@ -32,7 +32,7 @@ ____
 - **Palestra**: O contexto atual da aplicação de *Large Language Models* (LLMs) para a soluçao de problemas na área médica: apresentação do Dr. Bode
   
   - **Palestrantes**: [Gabriel Lino](https://www.linkedin.com/in/gabriel-lino-garcia-499266183/) e [João Renato Manesco](https://www.linkedin.com/in/joao-renato/)
-  - **Afiliação**: [Recogna Lab](https://recogna.tech/) | Universidade Estadual Paulista (Unesp) - Campus de Bauru
+  - **Afiliação**: [Recogna Lab](https://recogna.tech/) - Universidade Estadual Paulista (Unesp) - Campus de Bauru
   - **Público Alvo**: qualquer pessoa que se interessa pelo tema
   - **Local**: [Canal do LIFE no Youtube](https://www.youtube.com/watch?v=J1tpr--vJaw) - [Clique aqui para adicionar na sua agenda](https://calendar.google.com/calendar/event?action=TEMPLATE&amp;tmeid=M3ZrdHAxMjVhNW1yZDFkdGVlNW11ZDF1cjkgbGlmZUBpbmYudWZlcy5icg&amp;tmsrc=life%40inf.ufes.br).
   - **Horário**: 19h
