@@ -22,7 +22,7 @@ O evento é 100% gratuito e ocorre dentro da [Semana do Conhecimento da UFES](ht
     - **Descrição**: será ministrada uma aula-tutorial com os conceitos básicos para a construção de um modelo de inteligência aritficial, especificamente de aprendizado profundo, para a classificação de imagens médicas (com foco na classificação de imagens de câncer no esôfago como exemplo didático). Após o minicurso, os alunos estarão aptos a generalizar o conhecimento para a construção de modelos baseados em aprendizado profundo para a classificação de outros problemas baseados na descrição de imagens.
   - **Público alvo**: alunos de graduação e pós-graduação com conhecimentos básicos de programação.
   - **Local**: à definir
-  - **Horários**: 9h às 11h e 13h30 às 15h30
+  - **Horários**: 9h às 11h ou 13h30 às 15h30 (a inscrição vale para uma sessão de sua escolha)
   - **Vagas**: 30 por turma
   - **Inscrição**: [https://forms.gle/vDSh6XyFfuTu3pFz6](https://forms.gle/vDSh6XyFfuTu3pFz6)
 
