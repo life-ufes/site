@@ -8,6 +8,8 @@ header:
     - label: "Blog"
       url: "/blog/"
 excerpt: "Life é um laboratório de pesquisa vinculado ao Programa de Pós-Graduação em Informática da UFES atualmente localizado na sala 27 do prédio CT-13"
+intro: 
+  - excerpt: "Entre os dias 11 e 14 de novembro de 2024 acontece a 1ª Semana de Informática em Saúde do CT. [Saiba mais sobre o evento clicando aqui](/sis)."
 feature_row:
   - title: "Pesquisa 🧠"
     excerpt: "O principal intuito do laboratório é gerar e explorar conhecimento na área de Informática em Saúde, particularmente em tópicos que envolva o uso de inteligência artificial."
