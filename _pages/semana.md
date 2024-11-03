@@ -24,7 +24,7 @@ O evento é 100% gratuito e ocorre dentro da [Semana do Conhecimento da UFES](ht
   - **Local**: à definir
   - **Horários**: 9h às 11h ou 13h30 às 15h30 (a inscrição vale para uma sessão de sua escolha)
   - **Vagas**: 30 por turma
-  - **Inscrição**: [https://forms.gle/vDSh6XyFfuTu3pFz6](https://forms.gle/vDSh6XyFfuTu3pFz6) - :warning: **Ultimas vagas!** 
+  - **Inscrição**: [https://forms.gle/vDSh6XyFfuTu3pFz6](https://forms.gle/vDSh6XyFfuTu3pFz6) - 🚨 **Ultimas vagas!** 
 
 
 ____
@@ -73,7 +73,7 @@ Principais projetos a serem apresentados:
   - **Local**: auditório do CT-XIII
   - **Horário**: 13h às 17h
   - **Vagas**: 40
-  - **Inscrição**: [https://forms.gle/bXSoRbNTUkgcfezMA](https://forms.gle/bXSoRbNTUkgcfezMA) - :warning: **Ultimas vagas!** 
+  - **Inscrição**: [https://forms.gle/bXSoRbNTUkgcfezMA](https://forms.gle/bXSoRbNTUkgcfezMA) - 🚨 **Ultimas vagas!** 
 
 ____
 - Agenda do Workshop:
