@@ -71,7 +71,7 @@ students:
     site: "http://lattes.cnpq.br/0268217319630732"
     topics: "Multimodal Learning | Medical Datasets"
     course: "Mestrado em Informática"
-    llevel: "Pós-Graduação"
+    level: "Pós-Graduação"
     supervisors: "Andre Pacheco"
 
   - name: "Afonso Salvador"
