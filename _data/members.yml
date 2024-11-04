@@ -73,6 +73,14 @@ students:
     course: "Mestrado em Informática"
     level: "Pós-Graduação"
     supervisors: "Andre Pacheco"
+    
+  - name: "Wyctor Fogos da Rocha"
+    photo: "wyctor.gif"
+    site: "http://lattes.cnpq.br/4007121503172740"
+    topics: "Multimodal Learning | Medical Datasets"
+    course: "Mestrado em Informática"
+    level: "Pós-Graduação"
+    supervisors: "Luis Souza and Andre Pacheco"
 
   - name: "Afonso Salvador"
     photo: "afonso_salvador.jpeg"
@@ -128,6 +136,22 @@ students:
     course: "Engenharia Elétrica"
     supervisors: "Andre Pacheco e Luis Souza"
     level: "Graduação"
+    
+  - name: "Ana Tereza Ribeiro Soares Pereira"
+    photo: "ana.gif"
+    site: "http://lattes.cnpq.br/1321196400131172"
+    topics: "Técnicas de Tokenização | Coleta de dados | Classificação de câncer de pele"
+    course: "Engenharia da Computação"
+    supervisors: "Luis Souza and Andre Pacheco"
+    level: "Graduação"
+    
+  - name: "Vitor Dadalto Camara Gomes"
+    photo: "vitor.gif"
+    site: "http://lattes.cnpq.br/3348025673979765"
+    topics: "Tokenização de Imagens | Coleta de dados | Classificação de câncer de pele"
+    course: "Engenharia da Computação"
+    supervisors: "Luis Souza and Andre Pacheco"
+    level: "Graduação"
 
   - name: "Renan Souza Vieira"
     photo: "renan.gif"
@@ -144,6 +168,7 @@ students:
     course: "Medicina"
     supervisors: "Andre Pacheco and Renata Careta"
     level: "Graduação"
+    
 
 alumni:
   - name: "Juliana Duarte Geller"
