@@ -80,7 +80,7 @@ students:
     topics: "Multimodal Learning | Medical Datasets"
     course: "Mestrado em Informática"
     level: "Pós-Graduação"
-    supervisors: "Luis Souza and Andre Pacheco"
+    supervisors: "Luis Souza e Andre Pacheco"
 
   - name: "Afonso Salvador"
     photo: "afonso_salvador.jpeg"
@@ -142,7 +142,7 @@ students:
     site: "http://lattes.cnpq.br/1321196400131172"
     topics: "Técnicas de Tokenização | Coleta de dados | Classificação de câncer de pele"
     course: "Engenharia da Computação"
-    supervisors: "Luis Souza and Andre Pacheco"
+    supervisors: "Luis Souza e Andre Pacheco"
     level: "Graduação"
     
   - name: "Vitor Dadalto Camara Gomes"
@@ -150,7 +150,7 @@ students:
     site: "http://lattes.cnpq.br/3348025673979765"
     topics: "Tokenização de Imagens | Coleta de dados | Classificação de câncer de pele"
     course: "Engenharia da Computação"
-    supervisors: "Luis Souza and Andre Pacheco"
+    supervisors: "Luis Souza e Andre Pacheco"
     level: "Graduação"
 
   - name: "Renan Souza Vieira"
@@ -166,7 +166,7 @@ students:
     site: "http://lattes.cnpq.br/3736382234654211"
     topics: "Investigação histopatológica | Coleta de dados"
     course: "Medicina"
-    supervisors: "Andre Pacheco and Renata Careta"
+    supervisors: "Andre Pacheco e Renata Careta"
     level: "Graduação"
     
 
