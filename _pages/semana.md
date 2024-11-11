@@ -24,7 +24,8 @@ O evento é 100% gratuito e ocorre dentro da [Semana do Conhecimento da UFES](ht
   - **Local**: Remoto. Você receberá o link através do e-mail cadastrado na inscrição.
   - **Horários**: 9h às 11h ou 13h30 às 15h30 (a inscrição vale para uma sessão de sua escolha)
   - **Vagas**: 30 por turma
-  - **Inscrição**: [https://forms.gle/vDSh6XyFfuTu3pFz6](https://forms.gle/vDSh6XyFfuTu3pFz6) - 🚨 **Ultimas vagas!** 
+  - **Inscrição**: encerradas
+  - **Link para o Colab**: [https://colab.research.google.com/drive/1D3yU8osYUf9VYTrJql7SljoLTc4gGgMV?usp=sharing](https://colab.research.google.com/drive/1D3yU8osYUf9VYTrJql7SljoLTc4gGgMV?usp=sharing)
 
 
 ____
@@ -34,8 +35,9 @@ ____
   - **Palestrantes**: [Gabriel Lino](https://www.linkedin.com/in/gabriel-lino-garcia-499266183/) e [João Renato Manesco](https://www.linkedin.com/in/joao-renato/)
   - **Afiliação**: [Recogna Lab](https://recogna.tech/) - Universidade Estadual Paulista (Unesp) - Campus de Bauru
   - **Público Alvo**: qualquer pessoa que se interessa pelo tema
-  - **Local**: [Canal do LIFE no Youtube](https://www.youtube.com/watch?v=J1tpr--vJaw) - [Clique aqui para adicionar na sua agenda](https://calendar.google.com/calendar/event?action=TEMPLATE&amp;tmeid=M3ZrdHAxMjVhNW1yZDFkdGVlNW11ZDF1cjkgbGlmZUBpbmYudWZlcy5icg&amp;tmsrc=life%40inf.ufes.br).
+  - **Local**: [Canal do LIFE no Youtube](https://www.youtube.com/watch?v=J1tpr--vJaw)
   - **Horário**: 19h
+  - **Link para os slides**: *coming soon*
 
 #### Terça-feira (12/11/2024) e Quarta-feira (13/11/2024)
 
@@ -73,7 +75,7 @@ Principais projetos a serem apresentados:
   - **Local**: auditório do CT-XIII
   - **Horário**: 13h às 17h
   - **Vagas**: 40
-  - **Inscrição**: [https://forms.gle/bXSoRbNTUkgcfezMA](https://forms.gle/bXSoRbNTUkgcfezMA) - 🚨 **Ultimas vagas!** 
+  - **Inscrição**: encerradas
 
 ____
 - Agenda do Workshop:
