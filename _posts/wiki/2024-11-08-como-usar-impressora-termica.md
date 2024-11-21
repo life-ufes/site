@@ -28,9 +28,11 @@ categories:
 ### Passo 3: Conectar a impressora ao computador
 
   - Conecte o cabo USB branco à impressora e ao computador.
-  - Procure por "Printers"/"Impressoras" na barra de pesquisa do menu e selecione a opção de mesmo nome.
+  - Procure por **"Printers"/"Impressoras"** na barra de pesquisa do menu e selecione a opção de mesmo nome.
   - Clique em **"Add"/"Adicionar"** e, em seguida, no nome da sua impressora.
   - Prossiga clicando em **"Forward"/"Seguinte"** e **"Apply"/"Aplicar"**, para adicionar a impressora recém conectada ao computador.
+  - Vá em **"Printers"/"Impressoras"**, clique na impressora e, em seguida, em **"Printer Options"/ "Opções de impressão"**.
+  - Lá, altere o campo **"Method"/ "Método"** para **"Direct Thermal"**.
   - A partir daqui, a impressora está **pronta para uso**.
 
 ### Observações:
