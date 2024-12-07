@@ -37,7 +37,7 @@ ____
   - **Público Alvo**: qualquer pessoa que se interessa pelo tema
   - **Local**: [Canal do LIFE no Youtube](https://www.youtube.com/watch?v=J1tpr--vJaw)
   - **Horário**: 19h
-  - **Link para os slides**: *coming soon*
+  - **Link para os slides**: [Slides](https://drive.google.com/file/d/1iqNlR9X7z-NgPFjHpG88t4g_8EckKO46/view?usp=sharing)
 
 #### Terça-feira (12/11/2024) e Quarta-feira (13/11/2024)
 
