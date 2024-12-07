@@ -2,7 +2,7 @@
 title: Tutorial de uso da impressora térmica
 classes: wide
 header:
-  teaser: "Como utilizar a impressora térmica Elgin L42 Pro Full no linux"
+  teaser: "https://d2u2qhufg0q9tn.cloudfront.net/assets/arquivos/imgDetProduto_2abd6164-4089-41da-8127-b02433ba0527_L42%20PRO%20FULL%2007.png"
 categories:
   - Wiki
 ---
