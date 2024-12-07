@@ -49,7 +49,7 @@ gallery:
 A 1ª Semana de Informática em Saúde, realizada entre os dias 11 e 14 de novembro de 2024 no Centro Tecnológico (CT) da Universidade Federal do Espírito Santo (UFES), foi um grande sucesso, reunindo estudantes, profissionais e a comunidade externa. O evento, promovido pelo Laboratório de Inteligência Artificial em Saúde (Life), teve como objetivo incentivar a integração entre a academia e os diversos setores envolvidos na área da saúde digital.
 
 
-<figure style="width: 300px;" class="align-center">  
+<figure style="width: 800px;" class="align-center">  
   <img src="/assets/imgs/semana-saude/banner-semana-info.png" alt="">
 </figure>
 
@@ -71,5 +71,5 @@ No último dia do evento, um workshop abordou a construção de datasets na áre
 
 O workshop teve início às 13h com a abertura e introdução dos participantes. Em seguida, das 13h30 às 14h30, foi realizada a palestra "Criando um banco de imagens médicas: oportunidades e desafios", com o palestrante convidado Bruno Domingues, Cientista de Dados no Hospital Israelita Albert Einstein - PROADI-SUS/Banco de Imagens. Das 14h30 às 15h, a discussão se concentrou em "Boas práticas para a construção de datasets de qualidade". O evento prosseguiu com uma sessão de discussão e atividade em grupos, que ocorreu entre 15h e 16h30. O encerramento do workshop aconteceu das 16h30 às 17h, seguido por um coffee break.
 
-O evento proporcionou um espaço interessante para a troca de conhecimentos e a aproximação entre as inovações tecnológicas e as necessidades do setor da saúde.
+O evento proporcionou um espaço interessante para a troca de conhecimentos e a aproximação entre as inovações tecnológicas e as necessidades do setor da saúde e só foi possível a sua realização graças ao apoio financeiro fornecido pelo Ministério da Saúde, Ministério da Ciência, Tecnologia e Inovações, Projeto Genomas e CNPq.
 

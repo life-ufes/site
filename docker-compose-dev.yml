@@ -1,0 +1,18 @@
+version: "3.5"
+
+services:
+
+  site:
+    image: site-life
+    container_name: site-life-cont
+    restart: unless-stopped
+    build:
+      context: ./docker/jekyll
+      dockerfile: Dockerfile
+    ports:
+      - 4000:4000
+    volumes:
+      - .:/usr/src/app
+    stdin_open: true
+    tty: true    
+    command: bundle exec jekyll serve -H 0.0.0.0 -t
