@@ -31,7 +31,7 @@ Todavia, o básico para alterar o site é descrito na próxima seção.
 ## Funcionamento do site
 Primeiramente, o site está disponível dentro deste repositório. Abrindo o repositório, ou clonando-o, você vai observar uma organização que a esperada pelo Jekyll e pelo Minimal Mistakes. Na sequência, é descrito tudo que você precisa saber para atualizar o site.
 
-### Subindo o ambiente
+### Subindo o ambiente de produção
 Dentro deste repositório você encontra um `Dockerfile` e um `docker-compose`. Tudo que você precisa fazer para subir o ambiente na sua máquina é executar o comando:
 ```
 docker compose up -d
@@ -41,6 +41,16 @@ Após isso, o site vai estar disponível em `localhost:4000`. Você pode acessar
 ```
 docker compose down
 ```
+
+### Subindo o ambiente de desenvolvimento
+Similar ao ambiente de produção, você pode subir o ambiente de desenvolvimento para fazer as alterações no site. Para isso, execute o comando:
+
+```
+docker compose -f docker-compose-dev.yml up
+```
+Após isso, o site vai estar disponível em `localhost:4000`. Você pode acessar o site e fazer as alterações que desejar. Toda vez que você alterar algo, o site vai ser atualizado automaticamente. Para encerrar o container, basta executar o comando:
+
+
 
 ### Configuração do site
 Parte da configuração do site fica disponível dentro do arquivo `_config.yml`, que é um arquivo YAML. Se você não sabe nada sobre YAML, [dê uma lida neste artigo](https://www.treinaweb.com.br/blog/o-que-e-yaml). Porém, nada mais é do que um arquivo estruturado no estilo xml.

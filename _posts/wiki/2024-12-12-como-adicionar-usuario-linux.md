@@ -1,5 +1,6 @@
 ---
-title: Como criar um usuário no linux via terminal
+title: "Como criar um usuário no linux via terminal"
+author: paaatcha
 classes: wide
 header:
   teaser: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/220px-Tux.svg.png"
