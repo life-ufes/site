@@ -88,6 +88,8 @@ Apenas com essas funcionalidades já é possível fazer muita coisa, mas o TMUX 
 
 O TMUX é altamente configurável e suporta muitos atalhos de teclado para facilitar a navegação e a gestão de sessões. O principal atalho do TMUX é `Ctrl + b`, que é usado para ativar a maioria dos comandos do TMUX. Aqui estão alguns dos atalhos mais comuns:
 
+- `Ctrl + b` + `d` (*detach*): desconecta da sessão TMUX, mas mantém a sessão em execução em segundo plano.
+
 - `Ctrl + b` + `c` (*create*): cria uma nova janela dentro da sessão TMUX. Ela aparece na barra de status na parte inferior da tela.
 
 - `Ctrl + b` + `n` (*next*): muda para a próxima janela na sessão TMUX.
