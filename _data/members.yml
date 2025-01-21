@@ -68,12 +68,13 @@ students:
     supervisors: "Andre Pacheco e Rodolfo Villaça"
 
   - name: "Pedro Henrique Galdino Bouzon"
+    photo: "pbouzon.jpeg"
     site: "http://lattes.cnpq.br/0268217319630732"
     topics: "Multimodal Learning | Medical Datasets"
     course: "Mestrado em Informática"
     level: "Pós-Graduação"
-    supervisors: "Andre Pacheco"
-    
+    supervisors: "Andre Pacheco e Luis Souza"
+
   - name: "Wyctor Fogos da Rocha"
     photo: "wyctor.gif"
     site: "http://lattes.cnpq.br/4007121503172740"
@@ -136,7 +137,7 @@ students:
     course: "Engenharia Elétrica"
     supervisors: "Andre Pacheco e Luis Souza"
     level: "Graduação"
-    
+
   - name: "Ana Tereza Ribeiro Soares Pereira"
     photo: "ana.gif"
     site: "http://lattes.cnpq.br/1321196400131172"
@@ -144,7 +145,7 @@ students:
     course: "Engenharia da Computação"
     supervisors: "Luis Souza e Andre Pacheco"
     level: "Graduação"
-    
+
   - name: "Vitor Dadalto Camara Gomes"
     photo: "vitor.gif"
     site: "http://lattes.cnpq.br/3348025673979765"
@@ -168,7 +169,6 @@ students:
     course: "Medicina"
     supervisors: "Andre Pacheco e Renata Careta"
     level: "Graduação"
-    
 
 alumni:
   - name: "Juliana Duarte Geller"
