@@ -12,7 +12,7 @@ papers:
     link: "http://sibgrapi.sid.inpe.br/col/sid.inpe.br/sibgrapi/2024/08.28.21.03/doc/souza-19_clean.pdf"
     place: "SIBGRAPI 2024"
 
-  - title: "Retraction Note: Learning visual representations with optimum-path forest and its applications to Barrett’s esophagus and adenocarcinoma diagnosis"
+  - title: "Learning visual representations with optimum-path forest and its applications to Barrett’s esophagus and adenocarcinoma diagnosis"
     authors: "Luis A. de Souza Jr., Luis C. S. Afonso, Alanna Ebigbo, Andreas Probst, Helmut Messmann, Robert Mendel, Christian Hook, Christoph Palm & João P. Papa"
     link: "https://link.springer.com/article/10.1007/s00521-024-10343-7"
     place: "Neural Computing and Applications"
@@ -20,7 +20,7 @@ papers:
   - title: "DeepCraftFuse: visual and deeply-learnable features work better together for esophageal cancer detection in patients with Barrett’s esophagus"
     authors: "Luis A Souza Jr, André GC Pacheco, Leandro A Passos, Marcos CS Santana, Robert Mendel, Alanna Ebigbo, Andreas Probst, Helmut Messmann, Christoph Palm, João Paulo Papa"
     link: "https://link.springer.com/article/10.1007/s00521-024-09615-z"
-    place: "Computers in Biology and Medicine"
+    place: "Neural Computing and Applications"
 
   - title: "Error-Correcting Mean-Teacher: Corrections instead of consistency-targets applied to semi-supervised medical image segmentation"
     authors: "Robert Mendel, David Rauber, Luis A. de Souza Jr., João P. Papa, Christoph Palm"
