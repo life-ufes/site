@@ -7,6 +7,21 @@
 #   presentation:
 
 papers:
+  - title: "Anotação de imagens médicas assistida por IA: um estudo sobre segmentação de lesões de pele por não especialistas"
+    authors: "Lorenzo M. Scaramussa, Andre G. C. Pacheco"
+    link: "https://www.sbcas2025.com/trilhaprincipal"
+    place: "SBCAS 2025"
+
+  - title: "Evaluating Deep Neural Skin Cancer Classifiers With Multiple Images Inputs"
+    authors: "Afonso S. Magalhães, Luis A. de Souza Jr., André GC Pacheco"
+    link: "https://www.sbcas2025.com/trilhaprincipal"
+    place: "SBCAS 2025"
+  
+  - title: "Layer-selective deep representation to improve esophageal cancer classification"
+    authors: "Luis A. de Souza Jr. et al."
+    link: "https://link.springer.com/article/10.1007/s11517-024-03142-8"
+    place: "Medical & Biological Engineering & Computing"
+
   - title: "LiwTERM: A Lightweight Transformer-based Model for Dermatological Multimodal Lesion Detection"
     authors: "Luis A. de Souza Jr., André GC Pacheco, Gabriel G. de Angelo, Thiago Oliveira-Santos, Christoph Palm & João P. Papa"
     link: "http://sibgrapi.sid.inpe.br/col/sid.inpe.br/sibgrapi/2024/08.28.21.03/doc/souza-19_clean.pdf"
