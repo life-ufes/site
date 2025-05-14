@@ -51,14 +51,6 @@ collaborators:
     desc: "Anatomopatologista do Laboratório de Patologia da UFES"
 
 students:
-  - name: "Gabriel Giorisatto de Angelo"
-    photo: "gabobo.jpeg"
-    site: "https://br.linkedin.com/in/gabrielgangelo"
-    topics: "Machine Learning | LLMs| Classificação de câncer de pele"
-    course: "Mestrado em Informática"
-    supervisors: "Andre Pacheco"
-    level: "Pós-Graduação"
-
   - name: "Higor David Oliveira"
     photo: "higor.gif"
     site: "http://lattes.cnpq.br/2607139938549822"
