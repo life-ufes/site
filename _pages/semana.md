@@ -13,6 +13,13 @@ Na semana dos dias 11 a 14 de novembro de 2024 acontecerá no Centro Tecnológic
 
 O evento é 100% gratuito e ocorre dentro da [Semana do Conhecimento da UFES](https://www.ufes.br/conteudo/semana-do-conhecimento-2024-acontece-em-novembro-nos-quatro-campi-da-ufes-agende-se) e a mostra de projetos será parte do [CT de Portas abertas](https://www.instagram.com/ct.ufes/p/Cyg1Z2rPVn4/?img_index=1). Será uma oportunidade para conhecer mais sobre a área de Informática em Saúde e suas aplicações, bem como interagir com profissionais e pesquisadores da área. A programação completa é descrita a seguir, com eventos para diversos públicos alvos.
 
+## Highlights
+
+Confira os highlights do evento neste vídeo:
+
+<iframe src="https://www.youtube.com/embed/Nz7qJ2W9CsA?si=CY1VPKHslozCjN7K" width="615" height="415" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
 ## Programação
 
 #### Segunda-feira (11/11/2024)
