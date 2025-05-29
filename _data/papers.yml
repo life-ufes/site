@@ -7,6 +7,11 @@
 #   presentation:
 
 papers:
+  - title: "TransConv: a lightweight architecture based on transformers and convolutional neural networks for adenocarcinoma and Barrett’s esophagus identification"
+    authors: "Luis A. de Souza Jr., André G. C. Pacheco, Alberto F. De Souza, Thiago Oliveira-Santos, Claudine Badue & João P. Papa"
+    link: "https://link.springer.com/article/10.1007/s00521-025-11299-y"
+    place: "Neural Computing and Applications"  
+  
   - title: "Anotação de imagens médicas assistida por IA: um estudo sobre segmentação de lesões de pele por não especialistas"
     authors: "Lorenzo M. Scaramussa, Andre G. C. Pacheco"
     link: "https://www.sbcas2025.com/trilhaprincipal"
