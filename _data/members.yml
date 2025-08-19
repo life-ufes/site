@@ -85,7 +85,7 @@ students:
 
   - name: "Rafael Santiago Altoé"
     site: "https://github.com/rsadr0pyz"
-    topics: "Fullstack development | Coleta de dados | Classificação de câncer de pele"
+    topics: "Classificação de câncer de pele | TinyML | Sistemas embarcados"
     course: "Engenharia de Computação"
     supervisors: "Andre Pacheco"
     level: "Graduação"
@@ -122,14 +122,6 @@ students:
     supervisors: "Luis Souza e Andre Pacheco"
     level: "Graduação"
 
-  - name: "Renan Souza Vieira"
-    photo: "renan.gif"
-    site: "http://lattes.cnpq.br/3113715246348154"
-    topics: "Estudo clínico | Coleta de dados"
-    course: "Medicina"
-    supervisors: "Andre Pacheco e Patricia Lyra"
-    level: "Graduação"
-
   - name: "Leonardo Fabem Moreira"
     photo: "leonardo.gif"
     site: "http://lattes.cnpq.br/3736382234654211"
@@ -152,7 +144,39 @@ students:
     topics: "Desenvolvimento de software | Padtech"
     course: "Engenharia de Computação"
     supervisors: "Andre Pacheco e Luis Souza"
-    level: "Graduação"    
+    level: "Graduação"
+
+  - name: "Pedro Henrique Muniz Carvalho"
+    photo: "pmuniz.jpeg"
+    site: "https://github.com/phmuniz"
+    topics: "Classificação de câncer de pele | Identificação de dados fora de distribuição"
+    course: "Engenharia de Computação"
+    supervisors: "Andre Pacheco e Luis Souza"
+    level: "Graduação"
+
+  - name: "Eduarda Tonini Ferri"
+    photo: "etonini.jpeg"
+    site: "https://github.com/dudatonini"
+    topics: "Classificação de câncer de pele | Identificação de dados fora de distribuição"
+    course: "Engenharia de Computação"
+    supervisors: "Andre Pacheco e Luis Souza"
+    level: "Graduação"
+
+  - name: "Elisa Müller"
+    photo: "elisa.jpeg"
+    site: "https://github.com/BeWSM"
+    topics: "Localização de objetos em tempo real | Tiny ML | Sistemas embarcados"
+    course: "Engenharia de Computação"
+    supervisors: "Andre Pacheco, Luis Souza e Rodolfo Villaça"
+    level: "Graduação"
+
+  - name: "Eduardo Stein Saleme"
+    photo: "eduardo.jpeg"
+    site: "https://github.com/eduardossaleme"
+    topics: "Localização de objetos em tempo real | Tiny ML | Sistemas embarcados"
+    course: "Engenharia de Computação"
+    supervisors: "Andre Pacheco, Luis Souza e Rodolfo Villaça"
+    level: "Graduação"
   
 
 alumni:
@@ -163,6 +187,13 @@ alumni:
     supervisors: "Andre Pacheco"
     resultado: "Anotação de imagens médicas assistida por IA: um estudo sobre segmentação de lesões de pele por não especialistas"
     link: "https://www.sbcas2025.com/"    
+
+  - name: "Renan Souza Vieira"
+    photo: "renan.gif"
+    site: "http://lattes.cnpq.br/3113715246348154"    
+    course: "Medicina"
+    supervisors: "Andre Pacheco e Patricia Lyra"
+    resultado: "Participação na coleta de dados de lesões de pele"    
 
   - name: "Afonso Salvador"
     photo: "afonso_salvador.jpeg"

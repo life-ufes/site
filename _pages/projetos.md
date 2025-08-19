@@ -8,6 +8,9 @@ author_profile: true
 
 Atualmente, o laboratório conta com pesquisadores trabalhando em diferentes problemas. A seguir, são listados alguns dos principais projetos em andamento. Se você se interessar pelo tema, entre em contato com os pesquisadores envolvidos.
 
+
+# Em andamento
+
 ## Identificação automatizada de lesões de pele
 Este projeto tem como objetivo o desenvolvimento de um sistema de análise e triagem de lesões de pele que permita profissionais generalistas da área de saúde identificar lesões suspeitas de câncer de pele de maneira mais adequada. Dentro do Life existe um projeto de extensão chamado [Padtech](https://pad.ufes.br/padtech/), que de maneira resumida, trabalha junto ao [PAD-UFES](https://pad.ufes.br/) no combate ao câncer de pele no estado do Espírito Santo. Este é um projeto muito grande que envolve a parceria com diversos órgãos públicos e privados.
 {: style="text-align: justify;"}
@@ -35,7 +38,14 @@ Este projeto visa proteger, promover e apoiar a amamentação exclusiva até os 
 Este projeto tem como objetivo o desenvolvimento de um sistema de análise e triagem de lesões cancerígenas de esôfago e estômago em pacientes diagnosticados com esôfago de Barrett, visando o auxílio no diagnóstico precoce de adenocarcinoma de forma precisa e menos onerosa por profissionais da área de saúde. Este projeto vem sendo desenvolvido desde 2016 em uma parceria com duas universidades externas a UFES: a UNESP (estadual de São Paulo), e a Ostbayerische Technische Hochschule Regensburg (Alemanha), representadas pelos pesquisadores João Paulo Papa e Christoph Palm, respectivamente. Vislumbra-se, a longo prazo, expandir as possibilidades e modalidades de câncer a serem diagnosticas para as regiões endoscópicas, fortalecendo a parceria do Life com universidades brasileiras e internacionais, além de instituições do setor privado que financiem esta iniciativa.
 {: style="text-align: justify;"}
 
-**Pesquisadores responsáveis:** Luís Souza e André Pacheco
+**Pesquisadores responsáveis:** Luís Souza
+
+## Soluções de Inteligência Artificial em Microcontroladores
+Este projeto visa desenvolver soluções de inteligência artificial (IA) para microcontroladores, com foco em aplicações de Internet das Coisas (IoT) e sistemas embarcados voltados para Engenharia Clínica. A proposta é criar algoritmos de IA que possam ser executados em dispositivos com recursos limitados, como microcontroladores, para monitoramento e análise de dados em tempo real. Atualmente o foco está na está na localização e rastreamento de objetos em ambientes hospitalares, visando melhorar a gestão de equipamentos e recursos, reduzir perdas e otimizar processos.
+
+**Pesquisadores responsáveis:** André Pacheco, Rodolfo Villaça e Luís Souza
+
+# Encerrados
 
 ## Identificação e Classificação de Hemorragias Intracranianas em Tomografias Computadorizadas do Crânio
 
