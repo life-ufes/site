@@ -4,7 +4,7 @@ classes: wide
 header:
   teaser: "https://fapes.es.gov.br/Media/fapes/20Anos/FAPES%2020%20ANOS%20solo.png"
 categories:
-  - Blog
+  - Noticia
 tags:
   - UFES  
   - Pesquisa  

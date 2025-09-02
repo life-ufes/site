@@ -4,7 +4,7 @@ classes: wide
 header:
   teaser: "/assets/imgs/posts/merco-zero/marco-zero.png"
 categories:
-  - Blog
+  - Noticia
 tags:
   - UFES  
   - Pesquisa

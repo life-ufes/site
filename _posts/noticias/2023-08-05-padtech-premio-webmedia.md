@@ -4,7 +4,7 @@ classes: wide
 header:
   teaser: "/assets/imgs/posts/premios-gerais/webmedia-lf-2023.png"
 categories:
-  - Blog
+  - Noticia
 tags:
   - UFES
   - Prêmio

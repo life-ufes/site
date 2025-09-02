@@ -4,7 +4,7 @@ classes: wide
 header:
   teaser: "/assets/imgs/posts/premio-conexao-inova/pitch.png"
 categories:
-  - Blog
+  - Noticia
 tags:
   - UFES  
   - Pesquisa  

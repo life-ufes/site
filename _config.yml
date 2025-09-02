@@ -104,8 +104,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "Life-Ufes"
-  avatar           : "assets/imgs/favicon.png"
+  name             : " "
+  avatar           : "assets/imgs/icon.png"
   bio              : "Laboratório de Inteligência Artificial em Saúde (Life)" 
   location         : "Sala 27 - Prédio CT-13"
   email            : life@inf.ufes.br
@@ -113,6 +113,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/life-ufes"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://www.instagram.com/life.ufes"
    
 
 # Site Footer
@@ -120,10 +123,10 @@ footer:
   links:        
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/erufes"
+      url: "https://github.com/life-ufes"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      #url: "https://www.instagram.com"
+      url: "https://www.instagram.com/life.ufes"
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
       #url: "https://www.linkedin.com"

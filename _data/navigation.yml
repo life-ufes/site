@@ -4,9 +4,16 @@ main:
     url: /sobre/
   - title: "Equipe"
     url: /equipe/
+  - title: "Notícias"
+    url: /noticias/    
+  - title: "Projetos"
+    url: /projetos/  
+  - title: "SIS"
+    url: /sis/
   - title: "Publicações"
     url: /publicacoes/
-  - title: "Projetos"
-    url: /projetos/
-  - title: "Blog"
-    url: /blog/  
+
+
+sidebar-sis:
+  - title: "1ª Semana de informática em Saúde"
+    url: /eventos/sis-2024/

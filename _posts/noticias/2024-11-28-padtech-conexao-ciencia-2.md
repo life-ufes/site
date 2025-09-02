@@ -4,7 +4,7 @@ classes: wide
 header:
   teaser: "/assets/imgs/semana-saude/banner-semana-info.png"
 categories:
-  - Blog
+  - Noticia
 tags:
   - UFES  
   - Pesquisa  

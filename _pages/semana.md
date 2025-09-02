@@ -2,55 +2,40 @@
 layout: single
 classes: wide
 permalink: /sis/
-title: "1ª Semana de Informática em Saúde - CT/UFES"
-author_profile: true
+title: "2ª Semana de Informática em Saúde - CT/UFES"
+author_profile: false
 header:
-  image: /assets/imgs/semana-saude/banner-semana-info.png
+  image: /assets/imgs/semana-saude/sis-2025.png
+sidebar:
+  title: "Eventos anteriores"
+  nav: sidebar-sis
+
 ---
 
-Na semana dos dias 11 a 14 de novembro de 2024 acontecerá no Centro Tecnológico (CT) da Universidade Federal do Espírito Santo (UFES) a **1ª Semana de Informática em Saúde**. O evento está sendo organizado pelo Laboratório de Informática em Saúde (LIFE) e tem como objetivo promover a integração entre a comunidade acadêmica, profissionais e a comunidade externa através de palestras, apresentações de projetos, minicursos e oficinas na área. Além do LIFE, o evento conta com participação de outros laboratórios e projetos da UFES, como o [Human Centered Systems Lab (HCS)](https://www.instagram.com/hcs.ufes/) e o [Padtech](https://www.instagram.com/padtechufes/), e parceiros externos como o [ICEPi - Instituto Capixaba de Ensino, Pesquisa e Inovação em Saúde](https://icepi.es.gov.br/), [Hospital Israelita Albert Einstein - PROADI-SUS/Banco de Imagens](https://www.proadi-sus.org.br/projeto/banco-de-imagens1) e [Unesp](https://www2.unesp.br/).
-
+Na semana dos dias 6 a 11 de outubro de 2025 acontecerá no Centro Tecnológico (CT) da Universidade Federal do Espírito Santo (UFES) a **2ª Semana de Informática em Saúde**. O evento está sendo organizado pelo Laboratório de Informática em Saúde (LIFE) e tem como objetivo promover a integração entre a comunidade acadêmica, profissionais e a comunidade externa através de palestras, apresentações de projetos, minicursos e oficinas na área. Além do LIFE, o evento conta com participação de outros laboratórios e projetos da UFES, como o [Human Centered Systems Lab (HCS)](https://www.instagram.com/hcs.ufes/) e o [Padtech](https://www.instagram.com/padtechufes/), e parceiros externos como o [ICEPi - Instituto Capixaba de Ensino, Pesquisa e Inovação em Saúde](https://icepi.es.gov.br/) e [Samsung R&D Institute Brazil - SRBR](https://research.samsung.com/srbr).
 
 O evento é 100% gratuito e ocorre dentro da [Semana do Conhecimento da UFES](https://www.ufes.br/conteudo/semana-do-conhecimento-2024-acontece-em-novembro-nos-quatro-campi-da-ufes-agende-se) e a mostra de projetos será parte do [CT de Portas abertas](https://www.instagram.com/ct.ufes/p/Cyg1Z2rPVn4/?img_index=1). Será uma oportunidade para conhecer mais sobre a área de Informática em Saúde e suas aplicações, bem como interagir com profissionais e pesquisadores da área. A programação completa é descrita a seguir, com eventos para diversos públicos alvos.
 
-## Highlights
-
-Confira os highlights do evento neste vídeo:
-
-<iframe src="https://www.youtube.com/embed/Nz7qJ2W9CsA?si=CY1VPKHslozCjN7K" width="615" height="415" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 ## Programação
 
-#### Segunda-feira (11/11/2024)
+#### Segunda-feira (06/10/2025)
 
-- **Minicurso**: tutorial de implementação de modelo de aprendizado profundo para a classificação de imagens médicas utilizando Pytorch
-
-    - **Descrição**: será ministrada uma aula-tutorial com os conceitos básicos para a construção de um modelo de inteligência aritficial, especificamente de aprendizado profundo, para a classificação de imagens médicas (com foco na classificação de imagens de câncer no esôfago como exemplo didático). Após o minicurso, os alunos estarão aptos a generalizar o conhecimento para a construção de modelos baseados em aprendizado profundo para a classificação de outros problemas baseados na descrição de imagens.
-  - **Público alvo**: alunos de graduação e pós-graduação com conhecimentos básicos de programação.
-  - **Local**: Remoto. Você receberá o link através do e-mail cadastrado na inscrição.
-  - **Horários**: 9h às 11h ou 13h30 às 15h30 (a inscrição vale para uma sessão de sua escolha)
-  - **Vagas**: 30 por turma
-  - **Inscrição**: encerradas
-  - **Link para o Colab**: [https://colab.research.google.com/drive/1D3yU8osYUf9VYTrJql7SljoLTc4gGgMV?usp=sharing](https://colab.research.google.com/drive/1D3yU8osYUf9VYTrJql7SljoLTc4gGgMV?usp=sharing)
-
-
-____
-
-- **Palestra**: O contexto atual da aplicação de *Large Language Models* (LLMs) para a soluçao de problemas na área médica: apresentação do Dr. Bode
+- **Palestra**: Tecnologias Vestíveis, Inteligência Artificial e Reabilitação
   
-  - **Palestrantes**: [Gabriel Lino](https://www.linkedin.com/in/gabriel-lino-garcia-499266183/) e [João Renato Manesco](https://www.linkedin.com/in/joao-renato/)
-  - **Afiliação**: [Recogna Lab](https://recogna.tech/) - Universidade Estadual Paulista (Unesp) - Campus de Bauru
+  - **Palestrante**: [Thomas Beltrame](https://www.linkedin.com/in/thomas-beltrame-47a99a23/)
+  - **Afiliação**: Head of Part (Fitness and Wearable) - [Samsung R&D Institute Brazil - SRBR](https://research.samsung.com/srbr)
   - **Público Alvo**: qualquer pessoa que se interessa pelo tema
   - **Local**: [Canal do LIFE no Youtube](https://www.youtube.com/watch?v=J1tpr--vJaw)
-  - **Horário**: 19h
-  - **Link para os slides**: [Slides](https://drive.google.com/file/d/1iqNlR9X7z-NgPFjHpG88t4g_8EckKO46/view?usp=sharing)
+  - **Horário**: 20h
+  
 
-#### Terça-feira (12/11/2024) e Quarta-feira (13/11/2024)
+#### Terça-feira (07/10/2025) e Quarta-feira (08/10/2025)
 
 - **Mostra de projetos**: apresentação de projetos de pesquisa desenvolvidos na UFES durante o CT de portas abertas 2024. Haverá uma trilha específica para projetos de informática em saúde, com apresentações de projetos do LIFE, HCS, Padtech e ICEPi.
 
-  - **Local**: CT-XIII
+  - **Local**: CT-XIII - Sala 02
   - **Horário**: 9h às 16h
   - **Público alvo**: qualquer pessoa interessada em conhecer projetos de pesquisa desenvolvidos na UFES. As trilhas serão realizadas com alunos do Ensino Fundamental e Médio que estarão participando do CT de portas abertas.
   - **Inscrição**: não é necessária, basta comparecer no local
@@ -73,27 +58,28 @@ Principais projetos a serem apresentados:
 
 
 
-#### Quinta-feira (14/11/2024)
+#### Quinta-feira (09/10/2025)
 
-- **Workshop**: Construção de datasets na área de saúde: oportunidades, desafios e boas práticas
+- **Workshop**: Introdução à Inteligência Artificial aplicada à Saúde: por onde começar?
 
-  - **Descrição**: o workshop tem como objetivo discutir a importância da construção de datasets na área de saúde, apresentar oportunidades e desafios relacionados à coleta e organização de dados, e discutir boas práticas para a construção de datasets de qualidade. Serão apresentados casos de sucesso e desafios enfrentados na construção de datasets para aplicações em saúde.
-  - **Público alvo**: pesquisadores, profissionais da saúde, estudantes de graduação e pós-graduação interessados no tópico
+  - **Descrição**: O workshop tem como objetivo apresentar os conceitos fundamentais da Inteligência Artificial (IA) e suas aplicações na área da saúde. Serão discutidos os principais desafios e oportunidades na implementação de soluções baseadas em IA, bem como as melhores práticas para o desenvolvimento de projetos nessa área.
+  - **Público alvo**: pesquisadores, profissionais da saúde, estudantes de graduação e pós-graduação interessados no tópico. 
   - **Local**: auditório do CT-XIII
-  - **Horário**: 13h às 17h
-  - **Vagas**: 40
-  - **Inscrição**: encerradas
+  - **Horário**: 8h às 13h
+  - **Vagas**: 45
+  - **Inscrição**: em breve
 
-____
-- Agenda do Workshop:
-  - **13h às 13:30h:** abertura e introdução dos participantes
-  - **13:30h às 14:30h:** Criando um banco de imagens médicas: oportunidades e desafios
-    - Palestrante convidado: [Bruno Domingues](https://www.linkedin.com/in/bruno-domingues-oliveira-05644414b?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAACQxv0IBNMHJVSulStdzGp7MuD8ZLxGNmrg&lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_all%3BSw78zN6hSmWbzQa%2Bsp2KsQ%3D%3D)
-    - Cientista de Dados no Hospital Israelita Albert Einstein - PROADI-SUS/Banco de Imagens
-  - **14:30h às 15:00h:** Boas práticas para a construção de datasets de qualidade
-  - **15:00 às 16:30h:** discussão e atividade em grupos
-  - **16:30 às 17h:** encerramento e coffee break  
 
+#### Sexta-feira (10/10/2025)
+
+- **Minicurso**: Introdução à arquitetura Transformer e Visual Transformers para aplicações em saúde
+
+    - **Descrição**: Este minicurso tem como objetivo fornecer uma introdução à arquitetura Transformer e suas aplicações em visão computacional, com foco em problemas relacionados à saúde. Serão abordados os conceitos fundamentais da arquitetura Transformer, incluindo atenção, autoatenção e camadas de feedforward. Além disso, serão discutidas as principais aplicações dos Visual Transformers em tarefas de classificação de imagens médicas, segmentação e detecção de objetos. O curso incluirá exemplos práticos e exercícios para ajudar os participantes a entenderem como implementar essas técnicas em seus próprios projetos.
+  - **Público alvo**: alunos de graduação e pós-graduação com conhecimentos básicos de programação.
+  - **Local**: Remoto. Você receberá o link através do e-mail cadastrado na inscrição.
+  - **Horários**: em breve
+  - **Vagas**: 40 vagas
+  - **Inscrição**: em breve
 
 
 

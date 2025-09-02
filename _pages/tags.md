@@ -1,7 +1,7 @@
 ---
 layout: tags
 permalink: /tags/
-title: "Todos os posts do blog separados por tags 🔖"
+title: "Todas as notícias separadas por tags 🔖"
 author_profile: true
 classes: wide
 ---

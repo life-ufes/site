@@ -4,7 +4,7 @@ classes: wide
 header:
   teaser: "https://www.tjes.jus.br/wp-content/uploads/card_inoves_2024_787.jpg"
 categories:
-  - Blog
+  - Noticia
 tags:
   - UFES  
   - ICEPi

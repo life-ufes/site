@@ -4,7 +4,7 @@ classes: wide
 header:
   teaser: "/assets/imgs/posts/google-padtech/google-padtech.png"
 categories:
-  - Blog
+  - Noticia
 tags:
   - UFES  
   - Pesquisa
