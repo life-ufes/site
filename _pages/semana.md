@@ -56,14 +56,16 @@ Principais projetos a serem apresentados:
 
 - **Apresentação de equipamentos**: apresentação de equipamentos de coleta de dados em saúde, como dermatoscópios, microscópios, dados de scanners de alta resolução, etc, que são utilizados no desenvolvimento de projetos de pesquisa em informática em saúde. Os participantes poderão interagir com os equipamentos e conhecer mais sobre as tecnologias utilizadas na área.
 
+- **Outros projetos**: outros projetos de pesquisa desenvolvidos nos laboratórios da UFES.
+
 
 
 #### Quinta-feira (09/10/2025)
 
-- **Workshop**: Introdução à Inteligência Artificial aplicada à Saúde: por onde começar?
+- **Workshop**: Introdução à Inteligência Artificial aplicada à Saúde: o que você precisa saber?
 
   - **Descrição**: O workshop tem como objetivo apresentar os conceitos fundamentais da Inteligência Artificial (IA) e suas aplicações na área da saúde. Serão discutidos os principais desafios e oportunidades na implementação de soluções baseadas em IA, bem como as melhores práticas para o desenvolvimento de projetos nessa área.
-  - **Público alvo**: pesquisadores, profissionais da saúde, estudantes de graduação e pós-graduação interessados no tópico. 
+  - **Público alvo**: o público principal são pesquisadores, profissionais e estudantes da área da saúde. Porém, estudantes da área de computação que não possuem conhecimentos prévios em IA também são bem-vindos.
   - **Local**: auditório do CT-XIII
   - **Horário**: 8h às 13h
   - **Vagas**: 45
@@ -77,8 +79,7 @@ Principais projetos a serem apresentados:
     - **Descrição**: Este minicurso tem como objetivo fornecer uma introdução à arquitetura Transformer e suas aplicações em visão computacional, com foco em problemas relacionados à saúde. Serão abordados os conceitos fundamentais da arquitetura Transformer, incluindo atenção, autoatenção e camadas de feedforward. Além disso, serão discutidas as principais aplicações dos Visual Transformers em tarefas de classificação de imagens médicas, segmentação e detecção de objetos. O curso incluirá exemplos práticos e exercícios para ajudar os participantes a entenderem como implementar essas técnicas em seus próprios projetos.
   - **Público alvo**: alunos de graduação e pós-graduação com conhecimentos básicos de programação.
   - **Local**: Remoto. Você receberá o link através do e-mail cadastrado na inscrição.
-  - **Horários**: em breve
-  - **Vagas**: 40 vagas
+  - **Horários**: em breve  
   - **Inscrição**: em breve
 
 
