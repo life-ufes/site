@@ -62,7 +62,7 @@ Principais projetos a serem apresentados:
 
 #### Quinta-feira (09/10/2025)
 
-- **Workshop**: Introdução à Inteligência Artificial aplicada à Saúde: o que você precisa saber?
+- **Workshop**: Inteligência Artificial na Saúde: tudo o que você sempre quis saber (mas não sabia a quem perguntar)
 
   - **Descrição**: O workshop tem como objetivo apresentar os conceitos fundamentais da Inteligência Artificial (IA) e suas aplicações na área da saúde. Serão discutidos os principais desafios e oportunidades na implementação de soluções baseadas em IA, bem como as melhores práticas para o desenvolvimento de projetos nessa área.
   - **Público alvo**: o público principal são pesquisadores, profissionais e estudantes da área da saúde. Porém, estudantes da área de computação que não possuem conhecimentos prévios em IA também são bem-vindos.
