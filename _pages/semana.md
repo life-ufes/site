@@ -69,7 +69,7 @@ Principais projetos a serem apresentados:
   - **Local**: auditório do CT-XIII
   - **Horário**: 8h às 13h
   - **Vagas**: 45
-  - **Inscrição**: em breve
+  - **Inscrição**: [clique aqui para se inscrever](https://forms.gle/pF25SrZFvcrcMqAi7)
 
 
 #### Sexta-feira (10/10/2025)
@@ -79,8 +79,8 @@ Principais projetos a serem apresentados:
     - **Descrição**: Este minicurso tem como objetivo fornecer uma introdução à arquitetura Transformer e suas aplicações em visão computacional, com foco em problemas relacionados à saúde. Serão abordados os conceitos fundamentais da arquitetura Transformer, incluindo atenção, autoatenção e camadas de feedforward. Além disso, serão discutidas as principais aplicações dos Visual Transformers em tarefas de classificação de imagens médicas, segmentação e detecção de objetos. O curso incluirá exemplos práticos e exercícios para ajudar os participantes a entenderem como implementar essas técnicas em seus próprios projetos.
   - **Público alvo**: alunos de graduação e pós-graduação com conhecimentos básicos de programação.
   - **Local**: Remoto. Você receberá o link através do e-mail cadastrado na inscrição.
-  - **Horários**: em breve  
-  - **Inscrição**: em breve
+  - **Horários**: 9h às 11h:30 
+  - **Inscrição**: [clique aqui para se inscrever](https://forms.gle/rMAwiEFMGpy89TiT7)
 
 
 
