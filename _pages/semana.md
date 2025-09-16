@@ -82,6 +82,7 @@ Principais projetos a serem apresentados:
   - **Horários**: 9h às 11h:30 
   - **Inscrição**: [clique aqui para se inscrever](https://forms.gle/rMAwiEFMGpy89TiT7)
 
+____
 
 - **Palestra de encerramento**: Regras e marcos regulatórios para implantar um serviço de inteligência artificial (IA) no setor de saúde no Brasil
 
