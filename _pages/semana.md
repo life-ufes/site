@@ -83,4 +83,16 @@ Principais projetos a serem apresentados:
   - **Inscrição**: [clique aqui para se inscrever](https://forms.gle/rMAwiEFMGpy89TiT7)
 
 
+- **Palestra de encerramento**: Regras e marcos regulatórios para implantar um serviço de inteligência artificial (IA) no setor de saúde no Brasil
+
+  - **Descrição**: A palestra abordará os principais aspectos regulatórios e legais que envolvem a implantação de serviços de inteligência artificial (IA) no setor de saúde no Brasil. Serão discutidas as normas e diretrizes estabelecidas pela Agência Nacional de Vigilância Sanitária (ANVISA) e outros órgãos reguladores, bem como os desafios e oportunidades para a adoção de tecnologias de IA na área da saúde. Após a palestra, haverá um espaço para perguntas e respostas, além de um momento de confraternização com os participantes.
+  - **Palestrante**: [Luis Souza](https://www.linkedin.com/in/luis-souza-22829368/)
+  - **Afiliação**: Professor do Departamento de Informática e Programa de Pós-Graduação em Informática da UFES. 
+  - **Público Alvo**: qualquer pessoa que se interessa pelo tema
+  - **Local**: auditório do CT-XIII
+  - **Horário**: 14h
+  - **Vagas**: 45
+  - **Inscrição**: [clique aqui para se inscrever](https://forms.gle/XyzQfTas145ekTiRA)
+
+
 
