@@ -48,16 +48,13 @@ Principais projetos a serem apresentados:
 
 - **Software de triagem de lesões de pele**: é um software que utiliza técnicas de processamento de imagens para auxiliar na triagem de lesões de pele. O software é capaz de identificar lesões suspeitas e classificá-las de acordo com o risco de malignidade. O objetivo é auxiliar profissionais da saúde na identificação precoce de lesões de pele malignas, aumentando a eficácia do diagnóstico e tratamento.
 
-- **Caça Dengue**: jogo educativo desenvolvido pela Secretaria da Saúde do Espírito Santo (Sesa) em parceria com o ICEPi, que ensina de forma lúdica sobre a prevenção da dengue e o combate ao mosquito Aedes aegypti. Voltado para crianças, adolescentes, famílias, agentes de saúde e educadores, o jogo oferece mini-jogos interativos abordando temas como identificação de focos do mosquito e ações preventivas.
-
 - **Software para Agilizar a Identificação de Hemorragias Intracranianas**: Hemorragias intracranianas são lesões  que podem levar a sequelas graves e até à morte. A agilidade na identificação da lesão e início do tratamento é um dos principais fatores para reduzir seus efeitos negativos. Este software utiliza redes neurais artificiais para analisar  tomografias computadorizadas do crânio e calcular a probabilidade de existência de hemorragias nos exames. A fila de atendimento de médicos radiologistas é ordenada com base nestas probabilidades. Com objetivo de auxiliar os médicos na análise das imagens, o software ainda destaca as regiões com indícios de sangramento.
 
 - **Sutura de lesão de pele através de simulador de gel**: membros do [PAD-UFES](https://pad.ufes.br/) e do [Padtech](https://pad.ufes.br/padtech) demostrarão como eles realizam uma sutura de lesão de pele utilizando um simulador de gel. O simulador é uma alternativa para treinamento de sutura, permitindo que os alunos pratiquem a técnica sem a necessidade de utilizar pele animal ou humana. Será uma oportunidade de conhecer mais sobre a técnica e colocar a mão na massa em um ambiente controlado e seguro.
+  
+- **Protótipo de localização de equipamentos médicos**: é um sistema que utiliza tecnologias de Internet das Coisas (IoT) para localizar equipamentos médicos dentro de um hospital. O sistema está sendo desenvolvido para rastrear a localização dos equipamentos em tempo real, permitindo que equipes de engenharia clínica e profissionais de saúde encontrem rapidamente os equipamentos necessários para o atendimento aos pacientes.
 
 - **Apresentação de equipamentos**: apresentação de equipamentos de coleta de dados em saúde, como dermatoscópios, microscópios, dados de scanners de alta resolução, etc, que são utilizados no desenvolvimento de projetos de pesquisa em informática em saúde. Os participantes poderão interagir com os equipamentos e conhecer mais sobre as tecnologias utilizadas na área.
-
-- **Outros projetos**: outros projetos de pesquisa desenvolvidos nos laboratórios da UFES.
-
 
 
 #### Quinta-feira (09/10/2025)
@@ -65,11 +62,21 @@ Principais projetos a serem apresentados:
 - **Workshop**: Inteligência Artificial na Saúde: tudo o que você sempre quis saber (mas não sabia a quem perguntar)
 
   - **Descrição**: O workshop tem como objetivo apresentar os conceitos fundamentais da Inteligência Artificial (IA) e suas aplicações na área da saúde. Serão discutidos os principais desafios e oportunidades na implementação de soluções baseadas em IA, bem como as melhores práticas para o desenvolvimento de projetos nessa área.
-  - **Público alvo**: o público principal são pesquisadores, profissionais e estudantes da área da saúde. Porém, estudantes da área de computação que não possuem conhecimentos prévios em IA também são bem-vindos.
+  - **Público alvo**: o público principal são pesquisadores, profissionais e estudantes da **área da saúde**. Porém, estudantes da área de computação que não possuem conhecimentos prévios em IA também são bem-vindos.
   - **Local**: auditório do CT-XIII
   - **Horário**: 8h às 13h
   - **Vagas**: 45
   - **Inscrição**: [clique aqui para se inscrever](https://forms.gle/pF25SrZFvcrcMqAi7)
+
+____
+
+- **Minicurso**: Inteligência Artificial e Redes Multimodais para Aplicações em Saúde
+
+    - **Descrição**: Este minicurso tem como objetivo apresentar, de forma introdutória e acessível, os principais conceitos de Inteligência Artificial e seu uso em problemas reais. Serão abordados fundamentos de redes neurais convolucionais (CNNs) para extração de características visuais, da arquitetura Transformer aplicada ao processamento de linguagem natural, com destaque para os mecanismos de atenção, autoatenção e cross-attention, fundamentais para integração de informações em diferentes contextos. Também serão discutidas técnicas de extração de texto em documentos médicos e as redes multimodais, capazes de combinar dados de imagens, textos e outros exames clínicos por meio de estratégias de atenção cruzada. O minicurso enfatizará aplicações na saúde, como apoio ao diagnóstico, análise de exames de imagem e organização de prontuários.
+  - **Público alvo**: estudantes de graduação e pós-graduação, bem como profissionais interessados em uma introdução prática à IA aplicada à saúde, com conhecimentos básicos de programação.
+  - **Local**: Remoto. Você receberá o link através do e-mail cadastrado na inscrição.
+  - **Horários**: 9h às 11h30.
+  - **Inscrição**: [clique aqui para se inscrever](https://forms.gle/cXEdhxK2EfB9DvB78)
 
 
 #### Sexta-feira (10/10/2025)
@@ -79,7 +86,7 @@ Principais projetos a serem apresentados:
     - **Descrição**: Este minicurso tem como objetivo fornecer uma introdução à arquitetura Transformer e suas aplicações em visão computacional, com foco em problemas relacionados à saúde. Serão abordados os conceitos fundamentais da arquitetura Transformer, incluindo atenção, autoatenção e camadas de feedforward. Além disso, serão discutidas as principais aplicações dos Visual Transformers em tarefas de classificação de imagens médicas, segmentação e detecção de objetos. O curso incluirá exemplos práticos e exercícios para ajudar os participantes a entenderem como implementar essas técnicas em seus próprios projetos.
   - **Público alvo**: alunos de graduação e pós-graduação com conhecimentos básicos de programação.
   - **Local**: Remoto. Você receberá o link através do e-mail cadastrado na inscrição.
-  - **Horários**: 9h às 11h:30 
+  - **Horários**: 9h às 11h30 
   - **Inscrição**: [clique aqui para se inscrever](https://forms.gle/rMAwiEFMGpy89TiT7)
 
 ____
