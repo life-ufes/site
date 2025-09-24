@@ -102,5 +102,7 @@ ____
   - **Vagas**: 45
   - **Inscrição**: [clique aqui para se inscrever](https://forms.gle/XyzQfTas145ekTiRA)
 
+  Após a palestra, haverá um momento de confraternização com os participantes, com coffee break e socialização.
+
 
 
