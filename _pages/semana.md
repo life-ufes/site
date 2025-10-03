@@ -66,8 +66,8 @@ Principais projetos a serem apresentados:
   - **Público alvo**: o público principal são pesquisadores, profissionais e estudantes da **área da saúde**. Porém, estudantes da área de computação que não possuem conhecimentos prévios em IA também são bem-vindos.
   - **Local**: auditório do CT-XIII
   - **Horário**: 8h às 13h
-  - **Vagas**: 45
-  - **Inscrição**: [clique aqui para se inscrever](https://forms.gle/pF25SrZFvcrcMqAi7)
+  - **Vagas**: 60
+  - **Inscrição**: inscrições encerradas
 
 ____
 
