@@ -77,7 +77,7 @@ ____
   - **Público alvo**: estudantes de graduação e pós-graduação, bem como profissionais interessados em uma introdução prática à IA aplicada à saúde, com conhecimentos básicos de programação.
   - **Local**: Remoto. Você receberá o link através do e-mail cadastrado na inscrição.
   - **Horários**: 9h às 11h30.
-  - **Inscrição**: [clique aqui para se inscrever](https://forms.gle/cXEdhxK2EfB9DvB78)
+  - **Inscrição**: inscrições encerradas.
 
 
 #### Sexta-feira (10/10/2025)
@@ -88,7 +88,7 @@ ____
   - **Público alvo**: alunos de graduação e pós-graduação com conhecimentos básicos de programação.
   - **Local**: Remoto. Você receberá o link através do e-mail cadastrado na inscrição.
   - **Horários**: 9h às 11h30 
-  - **Inscrição**: [clique aqui para se inscrever](https://forms.gle/rMAwiEFMGpy89TiT7)
+  - **Inscrição**: inscrições encerradas.
 
 ____
 
