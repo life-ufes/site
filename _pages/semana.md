@@ -27,8 +27,9 @@ O evento é 100% gratuito e ocorre dentro da [Semana do Conhecimento da UFES](ht
   - **Palestrante**: [Thomas Beltrame](https://www.linkedin.com/in/thomas-beltrame-47a99a23/)
   - **Afiliação**: Head of Part (Fitness and Wearable) - [Samsung R&D Institute Brazil - SRBR](https://research.samsung.com/srbr)
   - **Público Alvo**: qualquer pessoa que se interessa pelo tema
-  - **Local**: [Canal do LIFE no Youtube](https://www.youtube.com/watch?v=5ONV_i0bukk)
+  - **Local**: [Canal do LIFE no Youtube](https://www.youtube.com/@life-ufes)
   - **Horário**: 20h
+  - **Link para os slides**: [Slides](https://drive.google.com/file/d/1W72QKgJveiogmU_TTPUricP1uGsVIISG/view?usp=sharing)
   
 
 #### Terça-feira (07/10/2025) e Quarta-feira (08/10/2025)
