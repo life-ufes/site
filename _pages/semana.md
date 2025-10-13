@@ -87,7 +87,7 @@ ____
   - **Público alvo**: alunos de graduação e pós-graduação com conhecimentos básicos de programação.
   - **Local**: Remoto. Você receberá o link através do e-mail cadastrado na inscrição.
   - **Horários**: 9h às 11h30 
-  - **Inscrição**: inscrições encerradas.
+  - **Slides**: *soon*.
 
 ____
 
@@ -99,8 +99,7 @@ ____
   - **Público Alvo**: qualquer pessoa que se interessa pelo tema
   - **Local**: auditório do CT-XIII
   - **Horário**: 14h
-  - **Vagas**: 45
-  - **Inscrição**: [clique aqui para se inscrever](https://forms.gle/XyzQfTas145ekTiRA)
+  - **Slides**: [Slides](https://docs.google.com/presentation/d/1tGRXGQzoLZ7o-AphwQ2gVmRb7wZD5F6gpIGwHZ1iJPg/edit?usp=sharing)
 
   Após a palestra, haverá um momento de confraternização com os participantes, com coffee break e socialização.
 
