@@ -90,22 +90,6 @@ students:
     supervisors: "Andre Pacheco"
     level: "Graduação"
 
-  - name: "Vinicius Moraes de Jesus"
-    site: "https://br.linkedin.com/in/viniciusmdj"
-    photo: "vinicius.jpeg"
-    topics: "Wearable devices | Desenvolvimento mobile"
-    course: "Ciência da Computação"
-    supervisors: "Andre Pacheco"
-    level: "Graduação"
-
-  - name: "Gabriel Schettino"
-    photo: "gabriel_schettino.png"
-    site: "https://github.com/gabrielschettino"
-    topics: "Fullstack development | Coleta de dados"
-    course: "Engenharia Elétrica"
-    supervisors: "Andre Pacheco e Luis Souza"
-    level: "Graduação"
-
   - name: "Ana Tereza Ribeiro Soares Pereira"
     photo: "ana.gif"
     site: "http://lattes.cnpq.br/1321196400131172"
@@ -129,6 +113,22 @@ students:
     course: "Medicina"
     supervisors: "Andre Pacheco e Renata Careta"
     level: "Graduação"
+
+  - name: "Rayane Cremasco Martins"
+    photo: "rayane.gif"
+    site: "http://lattes.cnpq.br/8324071601218432"
+    topics: "Investigação histopatológica | Coleta de dados"
+    course: "Medicina"
+    supervisors: "Andre Pacheco e Patricia Lyra"
+    level: "Graduação"
+
+  - name: "Caio Lino Veríssimo dos Santos Silva"
+    photo: "caio.gif"
+    site: "http://lattes.cnpq.br/3600131299302430"
+    topics: "Investigação histopatológica | Coleta de dados"
+    course: "Medicina"
+    supervisors: "Andre Pacheco e Patricia Lyra"
+    level: "Graduação"    
 
   - name: "Gustavo de Andrade Perini"
     photo: "gustavo.jpeg"
@@ -180,6 +180,22 @@ students:
   
 
 alumni:
+  - name: "Vinicius Moraes de Jesus"
+    site: "https://br.linkedin.com/in/viniciusmdj"
+    photo: "vinicius.jpeg"
+    topics: "Wearable devices | Desenvolvimento mobile"
+    course: "Ciência da Computação"
+    supervisors: "Andre Pacheco"
+    level: "Graduação"
+
+  - name: "Gabriel Schettino"
+    photo: "gabriel_schettino.png"
+    site: "https://github.com/gabrielschettino"
+    topics: "Fullstack development | Coleta de dados"
+    course: "Engenharia Elétrica"
+    supervisors: "Andre Pacheco e Luis Souza"
+    level: "Graduação"
+
   - name: "Lorenzo Scaramussa"
     site: "https://br.linkedin.com/in/lorenzo-scaramussa-25428016a"
     photo: "lorenzo.jpeg"    
