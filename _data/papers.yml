@@ -7,6 +7,21 @@
 #   presentation:
 
 papers:
+  - title: "MetaBlock-SE: a method to deal with missing metadata in multimodal skin cancer classification"
+    authors: "Pedro H. G. Bouzon, Wyctor F. da Rocha, Luis A. Souza Jr., André G. C. Pacheco"
+    link: "https://github.com/life-ufes/metablock-se"
+    place: "IEEE Journal of Biomedical and Health Informatics (JBHI)"
+
+  - title: "LiwTERM-r A Revised Lightweight Transformer-based Model for Multimodal Skin Lesion Detection Robust to Incomplete Input"
+    authors: "Luis A. de Souza Jr., André GC Pacheco, Gabriel G. de Angelo, Thiago Oliveira-Santos, Christoph Palm & João P. Papa"
+    link: "#"
+    place: "Journal of the Brazilian Computer Society (JBCS)"
+
+  - title: "Dermalyze: uma aplicação para auxílio à triagem de lesões de pele baseado em aprendizado profundo"
+    authors: "Eduarda Pylro Magesk, Luis A. de Souza Jr, Patricia H. L. Frasson, Andre G. C. Pacheco"
+    link: "https://sol.sbc.org.br/index.php/webmedia/article/view/37961"
+    place: "Brazilian Symposium on Multimedia and the Web (WebMedia) 2025"
+
   - title: "TransConv: a lightweight architecture based on transformers and convolutional neural networks for adenocarcinoma and Barrett’s esophagus identification"
     authors: "Luis A. de Souza Jr., André G. C. Pacheco, Alberto F. De Souza, Thiago Oliveira-Santos, Claudine Badue & João P. Papa"
     link: "https://link.springer.com/article/10.1007/s00521-025-11299-y"
