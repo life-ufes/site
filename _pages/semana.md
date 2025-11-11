@@ -12,10 +12,16 @@ sidebar:
 
 ---
 
-Na semana dos dias 6 a 11 de outubro de 2025 acontecerá no Centro Tecnológico (CT) da Universidade Federal do Espírito Santo (UFES) a **2ª Semana de Informática em Saúde**. O evento está sendo organizado pelo Laboratório de Informática em Saúde (LIFE) e tem como objetivo promover a integração entre a comunidade acadêmica, profissionais e a comunidade externa através de palestras, apresentações de projetos, minicursos e oficinas na área. Além do LIFE, o evento conta com participação de outros laboratórios e projetos da UFES, como o [Human Centered Systems Lab (HCS)](https://www.instagram.com/hcs.ufes/) e o [Padtech](https://www.instagram.com/padtechufes/), e parceiros externos como o [ICEPi - Instituto Capixaba de Ensino, Pesquisa e Inovação em Saúde](https://icepi.es.gov.br/) e [Samsung R&D Institute Brazil - SRBR](https://research.samsung.com/srbr).
+Na semana dos dias 6 a 11 de outubro de 2025 aconteceu no Centro Tecnológico (CT) da Universidade Federal do Espírito Santo (UFES) a **2ª Semana de Informática em Saúde**. O evento está foi organizado pelo Laboratório de Informática em Saúde (LIFE) e teve como objetivo promover a integração entre a comunidade acadêmica, profissionais e a comunidade externa através de palestras, apresentações de projetos, minicursos e oficinas na área. Além do LIFE, o evento contou com participação de outros laboratórios e projetos da UFES, como o [Human Centered Systems Lab (HCS)](https://www.instagram.com/hcs.ufes/) e o [Padtech](https://www.instagram.com/padtechufes/), e parceiros externos como o [ICEPi - Instituto Capixaba de Ensino, Pesquisa e Inovação em Saúde](https://icepi.es.gov.br/) e [Samsung R&D Institute Brazil - SRBR](https://research.samsung.com/srbr).
 
-O evento é 100% gratuito e ocorre dentro da [Semana do Conhecimento da UFES](https://www.ufes.br/conteudo/semana-do-conhecimento-2024-acontece-em-novembro-nos-quatro-campi-da-ufes-agende-se) e a mostra de projetos será parte do [CT de Portas abertas](https://www.instagram.com/ct.ufes/p/Cyg1Z2rPVn4/?img_index=1). Será uma oportunidade para conhecer mais sobre a área de Informática em Saúde e suas aplicações, bem como interagir com profissionais e pesquisadores da área. A programação completa é descrita a seguir, com eventos para diversos públicos alvos.
+O evento foi 100% gratuito e ocorreu dentro da [Semana do Conhecimento da UFES](https://www.ufes.br/conteudo/semana-do-conhecimento-2024-acontece-em-novembro-nos-quatro-campi-da-ufes-agende-se) e a mostra de projetos foi parte do [CT de Portas abertas](https://www.instagram.com/ct.ufes/p/Cyg1Z2rPVn4/?img_index=1). Foi uma oportunidade para conhecer mais sobre a área de Informática em Saúde e suas aplicações, bem como interagir com profissionais e pesquisadores da área. A programação completa do que ocorreu é descrita a seguir, com eventos para diversos públicos alvos.
 
+
+## Highlights
+
+Confira os highlights do evento neste vídeo:
+
+<iframe src="https://www.youtube.com/embed/IVWKhhmB4_8?si=Mk88Qx3_45DuvVen" width="615" height="415" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 ## Programação
