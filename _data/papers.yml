@@ -21,12 +21,13 @@ papers:
     authors: "Eduarda Pylro Magesk, Luis A. de Souza Jr, Patricia H. L. Frasson, Andre G. C. Pacheco"
     link: "https://sol.sbc.org.br/index.php/webmedia/article/view/37961"
     place: "Brazilian Symposium on Multimedia and the Web (WebMedia) 2025"
+    award: "Best paper award 🥇"
 
   - title: "TransConv: a lightweight architecture based on transformers and convolutional neural networks for adenocarcinoma and Barrett’s esophagus identification"
     authors: "Luis A. de Souza Jr., André G. C. Pacheco, Alberto F. De Souza, Thiago Oliveira-Santos, Claudine Badue & João P. Papa"
     link: "https://link.springer.com/article/10.1007/s00521-025-11299-y"
-    place: "Neural Computing and Applications"  
-  
+    place: "Neural Computing and Applications"
+
   - title: "Anotação de imagens médicas assistida por IA: um estudo sobre segmentação de lesões de pele por não especialistas"
     authors: "Lorenzo M. Scaramussa, Andre G. C. Pacheco"
     link: "https://sol.sbc.org.br/index.php/sbcas/article/view/35492"
@@ -36,7 +37,7 @@ papers:
     authors: "Afonso S. Magalhães, Luis A. de Souza Jr., André GC Pacheco"
     link: "https://sol.sbc.org.br/index.php/sbcas/article/view/35544"
     place: "SBCAS 2025"
-  
+
   - title: "Layer-selective deep representation to improve esophageal cancer classification"
     authors: "Luis A. de Souza Jr. et al."
     link: "https://link.springer.com/article/10.1007/s11517-024-03142-8"
