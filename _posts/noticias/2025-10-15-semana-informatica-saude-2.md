@@ -1,5 +1,5 @@
 ---
-title: Destaque capixaba na tecnologia em saúde: 2ª Semana de Informática em Saúde do LIFE apresenta a produção científica da UFES
+title: "Destaque capixaba na tecnologia em saúde: 2ª Semana de Informática em Saúde do LIFE apresenta a produção científica da UFES"
 classes: wide
 header:
   teaser: "/assets/imgs/posts/sis-2/apres.png" 
@@ -8,14 +8,10 @@ categories:
 tags:
   - UFES  
   - Pesquisa  
-  - ICEPi
+  - CNPq
   - Padtech    
-  - Evento
-  - Inovação
-  - Tecnologia  
-  - Prêmio
+  - Ministério da Saúde                 
 ---
-
 
 O Centro Tecnológico (CT) da Universidade Federal do Espírito Santo (UFES) foi palco de um evento de grande relevância estadual, a 2ª Semana de Informática em Saúde. Realizada de 6 a 11 de outubro de 2025, a iniciativa, organizada pelo Laboratório de Informática em Saúde (LIFE), reforçou o papel de destaque da ciência capixaba e da universidade pública na vanguarda da inovação tecnológica aplicada à saúde.
 
