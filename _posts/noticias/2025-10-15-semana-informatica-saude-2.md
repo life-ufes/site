@@ -2,7 +2,7 @@
 title: Destaque capixaba na tecnologia em saúde: 2ª Semana de Informática em Saúde do LIFE apresenta a produção científica da UFES
 classes: wide
 header:
-  teaser: "/assets/imgs/posts/sis-2/apres.png"
+  teaser: "/assets/imgs/posts/sis-2/apres.png" 
 categories:
   - Noticia
 tags:
