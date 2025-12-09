@@ -9,7 +9,7 @@
 papers:
   - title: "MetaBlock-SE: a method to deal with missing metadata in multimodal skin cancer classification"
     authors: "Pedro H. G. Bouzon, Wyctor F. da Rocha, Luis A. Souza Jr., André G. C. Pacheco"
-    link: "https://github.com/life-ufes/metablock-se"
+    link: "https://ieeexplore.ieee.org/document/11284542"
     place: "IEEE Journal of Biomedical and Health Informatics (JBHI)"
 
   - title: "LiwTERM-r A Revised Lightweight Transformer-based Model for Multimodal Skin Lesion Detection Robust to Incomplete Input"
