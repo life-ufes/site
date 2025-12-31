@@ -28,6 +28,11 @@ papers:
     link: "https://link.springer.com/article/10.1007/s00521-025-11299-y"
     place: "Neural Computing and Applications"
 
+  - title: "In the Picture: Medical Imaging Datasets, Artifacts, and their Living Review"
+    authors: "Amelia Jiménez-Sánchez et al."
+    link: "https://dl.acm.org/doi/10.1145/3715275.3732035"
+    place: "FAccT '25: Proceedings of the 2025 ACM Conference on Fairness, Accountability, and Transparency"
+
   - title: "Anotação de imagens médicas assistida por IA: um estudo sobre segmentação de lesões de pele por não especialistas"
     authors: "Lorenzo M. Scaramussa, Andre G. C. Pacheco"
     link: "https://sol.sbc.org.br/index.php/sbcas/article/view/35492"
