@@ -45,3 +45,11 @@ categories:
   - Fizemos esse exemplo para a etiqueta grande: [link do canva](https://www.canva.com/design/DAGVm2Vhz3o/Gb82Dhqk3eZMw0oMMPSggQ/edit?utm_content=DAGVm2Vhz3o&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
   - Fizemos esse exemplo para a etiqueta pequena: [link do canva](https://www.canva.com/design/DAGVm8v9dQM/z2wqgofF6_v916d9Byz-nQ/edit?utm_content=DAGVm8v9dQM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
+  - Caso durante a inserção da impressora no seu computador seja solicitado usuário e senha, basta usar esses comandos no terminal:
+  ```python
+  sudo usermod -aG lpadmin $USER
+  sudo systemctl restart cups
+  ```
+  Se a solicitação persistir basta inserir o usuário e senha da sua máquina
+  (Para modificar as configurações da impressora dá pra fazer pelo software do computador ou pelo site disponibilizado ao realizar o dowload dos drives)
