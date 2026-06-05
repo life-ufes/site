@@ -137,6 +137,22 @@ students:
     supervisors: "Andre Pacheco e Patricia Lyra"
     level: "Graduação"
 
+  - name: "Brenda Comper"
+    photo: "brenda.gif"
+    site: "http://lattes.cnpq.br/3298466279131397"
+    topics: "Investigação histopatológica | Coleta de dados"
+    course: "Medicina"
+    supervisors: "Andre Pacheco e Patricia Lyra"
+    level: "Graduação"
+
+  - name: "Julio Cezzar Fardin Pessin"
+    photo: "brenda.gif"
+    site: "http://lattes.cnpq.br/0486241980278683"
+    topics: "Investigação histopatológica | Coleta de dados"
+    course: "Medicina"
+    supervisors: "Andre Pacheco e Patricia Lyra"
+    level: "Graduação"
+
   - name: "Taissa dos Santos Uchiya"
     photo: "taissa.gif"
     site: "http://lattes.cnpq.br/5459231030828624"
