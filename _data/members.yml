@@ -201,14 +201,6 @@ students:
     supervisors: "Andre Pacheco e Luis Souza"
     level: "Graduação"
 
-  - name: "Elisa Müller"
-    photo: "elisa.jpeg"
-    site: "https://github.com/BeWSM"
-    topics: "Localização de objetos em tempo real | Tiny ML | Sistemas embarcados"
-    course: "Engenharia de Computação"
-    supervisors: "Andre Pacheco, Luis Souza e Rodolfo Villaça"
-    level: "Graduação"
-
   - name: "Eduardo Stein Saleme"
     photo: "eduardo.jpeg"
     site: "https://github.com/eduardossaleme"
@@ -218,6 +210,16 @@ students:
     level: "Graduação"
 
 alumni:
+  - name: "Elisa Müller"
+    photo: "elisa.jpeg"
+    site: "https://github.com/BeWSM"
+    topics: "Localização de objetos em tempo real | Tiny ML | Sistemas embarcados"
+    course: "Engenharia de Computação"
+    supervisors: "Andre Pacheco, Luis Souza e Rodolfo Villaça"
+    level: "Graduação"
+    resultado: "MedTracker: A BLE-Based Indoor Localization System for Tracking Portable Medical Devices in Hospital Environments"
+    link: "https://sol.sbc.org.br/index.php/sbrc_estendido/article/view/42590"
+
   - name: "Caio Lino Veríssimo dos Santos Silva"
     photo: "caio.gif"
     site: "http://lattes.cnpq.br/3600131299302430"
@@ -245,6 +247,8 @@ alumni:
     course: "Ciência da Computação"
     supervisors: "Andre Pacheco"
     level: "Graduação"
+    resultado: "Colepp: uma ferramenta multiplataforma para coleta de dados de dispositivos vestiveis"
+    link: "https://arxiv.org/abs/2510.15565"
 
   - name: "Gabriel Schettino"
     photo: "gabriel_schettino.png"
