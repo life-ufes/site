@@ -74,6 +74,14 @@ students:
     level: "Pós-Graduação"
     supervisors: "Andre Pacheco e Luis Souza"
 
+  - name: "Gabriel Garcia Tissianel"
+    photo: "ggarcia.jpeg"
+    site: "http://lattes.cnpq.br/8477781537442443"
+    topics: "Histopathology | Medical Imaging"
+    course: "Mestrado em Informática"
+    level: "Pós-Graduação"
+    supervisors: "Andre Pacheco e Luis Souza"
+
   - name: "Maycon Guedes Cordeiro"
     photo: "maycon.gif"
     site: "http://lattes.cnpq.br/3818058319547268"
