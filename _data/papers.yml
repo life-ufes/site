@@ -7,10 +7,47 @@
 #   presentation:
 
 papers:
+  - title: "Towards a clinically integrated artificial intelligence tool for triage of skin cancer"
+    authors: "Andre G. C. Pacheco, Eduarda P. Magesk, Leonardo F. Moreira, Luis A. Souza Jr, et al."
+    link: "https://www.nature.com/articles/s41746-026-02851-8"
+    place: "Nature npj Digital Medicine"
+    code: "https://github.com/life-ufes/dermalyze-model"
+
+  - title: "Enabling safe AI deployment: an automated Fitzpatrick skin type guardrail for out-of-distribution dermatology"
+    authors: "Pedro HG Bouzon, Eduarda P Magesk, Luis A de Souza Jr, André G. C. Pacheco"
+    link: "https://sol.sbc.org.br/index.php/sbcas/article/view/42798"
+    place: "Simpósio Brasileiro de Computação Aplicada à Saúde (SBCAS)"
+    code: "https://github.com/life-ufes/skin-type-guardrail"
+
+  - title: "The more the merrier: the use of verbose metadata description in the multimodal classification of skin lesions"
+    authors: "Ana TRS Pereira, Wyctor F da Rocha, Pedro H Bouzon, André G. C. Pacheco, Luis A Souza Jr"
+    link: "https://sol.sbc.org.br/index.php/sbcas/article/view/42752"
+    place: "Simpósio Brasileiro de Computação Aplicada à Saúde (SBCAS)"
+    code: "https://github.com/life-ufes/Simple-RAG"
+
+  - title: "Investigação e aprimoramento de sistemas de diagnóstico auxiliado por computador na identificação de câncer de pele em tons de pele escura"
+    authors: "Eduarda P Magesk, Pedro HG Bouzon, Luis A de Souza Jr, Andre G. C. Pacheco"
+    link: "https://sol.sbc.org.br/index.php/sbcas/article/view/42809"
+    place: "Simpósio Brasileiro de Computação Aplicada à Saúde (SBCAS)"
+    code: "https://github.com/life-ufes/vies-racial-deteccao-cancer-de-pele"
+
+  - title: "MedTracker: A BLE-Based Indoor Localization System for Tracking Portable Medical Devices in Hospital Environments"
+    authors: "Higor D Oliveira, Elisa M Sarmento, Eduardo S Saleme, Luis A Souza Jr, Gustavo C Vivas, Daniel R Trindade, Rodolfo S Villaça, André G. C. Pacheco"
+    link: "https://sol.sbc.org.br/index.php/sbrc_estendido/article/view/42590"
+    place: "Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos (SBRC)"
+    code: "https://github.com/life-ufes/MedTracker"
+
+  - title: "PRISM: a clinically interpretable stepwise framework for multimodal skin cancer diagnosis"
+    authors: "Pedro H. G. Bouzon, Wyctor F. da Rocha, Luis A. Souza Jr., André G. C. Pacheco"
+    link: "https://www.nature.com/articles/s41598-026-47756-4"
+    place: "Nature Scientific Report"
+    code: "https://github.com/life-ufes/prism"
+
   - title: "MetaBlock-SE: a method to deal with missing metadata in multimodal skin cancer classification"
     authors: "Pedro H. G. Bouzon, Wyctor F. da Rocha, Luis A. Souza Jr., André G. C. Pacheco"
     link: "https://ieeexplore.ieee.org/document/11284542"
     place: "IEEE Journal of Biomedical and Health Informatics (JBHI)"
+    code: "https://github.com/life-ufes/metablock-se"
 
   - title: "LiwTERM-r A Revised Lightweight Transformer-based Model for Multimodal Skin Lesion Detection Robust to Incomplete Input"
     authors: "Luis A. de Souza Jr., André GC Pacheco, Gabriel G. de Angelo, Thiago Oliveira-Santos, Christoph Palm & João P. Papa"
