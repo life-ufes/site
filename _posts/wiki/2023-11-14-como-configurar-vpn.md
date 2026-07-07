@@ -15,8 +15,17 @@ Para acessar a VPN do DI-UFES, siga os seguintes passos:
 
 1. **Solicitar arquivo de configuração da VPN**
    - Envie um email para Ebenézer (analista de TI do LAR) no seguinte endereço: `ensilva@inf.ufes.br`
-   - Título do e-mail: Acesso a VPN para uso dos servidores do laboratório
-   - No corpo do e-mail solicite o arquivo de configuração da OpenVPN. Você precisa fornecer seu usuário do PPPoE
+     - Coloque seu orientador em cópia do e-mail.
+   - Título do e-mail: Acesso a VPN para uso dos servidores do laboratório LIFE
+   - No corpo do e-mail solicite o arquivo de configuração da OpenVPN. Você precisa fornecer seu usuário do PPPoE. Fale de qual laboratório você faz parte, que deseja acessar os servidores do laboratório de forma remota, e quem é seu orientador. Exemplo de corpo do e-mail:
+
+   ```
+   Olá Ebenézer,
+
+   Eu sou aluno do laboratório LIFE e gostaria de solicitar o arquivo de configuração da OpenVPN para acessar os servidores do laboratório de forma remota. Meu usuário do PPPoE é [seu_usuario_pppoe]. Meu orientador é [nome_do_orientador] (que está em cópia deste e-mail).
+
+   Agradeço desde já pela ajuda!
+   ```
    - Você receberá um arquivo de configuração por e-mail. Salve-o em um local de fácil acesso.
 
 2. **Instalação da VPN**
