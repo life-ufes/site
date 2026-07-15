@@ -185,6 +185,14 @@ students:
     supervisors: "Andre Pacheco e Luis Souza"
     level: "Graduação"
 
+  - name: "Luiz Felipe Pereira Nolasco"
+    photo: "luizNolasco.gif"
+    site: "http://lattes.cnpq.br/5698107388049325"
+    topics: "Processamento de Imagens Médicas | Barrett's Esophagus"
+    course: "Ciência da Computação"
+    supervisors: "Luis Souza"
+    level: "Graduação"
+
   - name: "Heitor Guerra Proveti"
     site: "https://github.com/Heitor-Guerra"
     photo: "heitor.jpeg"
