@@ -22,7 +22,7 @@ O evento é 100% gratuito e ocorre dentro da [Semana do Conhecimento da UFES](ht
 
 #### Segunda-feira (05/10/2026)
 
-- **Palestra**: IA na dermatologia: um olhar clínico sobre aplicações atuais e novas fronteiras
+- **Palestra**: IA na dermatologia: um olhar clínico sobre aplicações atuais e novas fronteiras 
   
   - **Palestrante**: Bruno Simão dos Santos
   - **Afiliação**: Dermatologista e integrante do Núcleo de Telemedicina do Hospital Sírio-Libanês
