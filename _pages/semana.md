@@ -25,7 +25,7 @@ O evento é 100% gratuito e ocorre dentro da [Semana do Conhecimento da UFES](ht
 - **Palestra**: IA na dermatologia: um olhar clínico sobre aplicações atuais e novas fronteiras 
   
   - **Palestrante**: Bruno Simão dos Santos
-  - **Afiliação**: Dermatologista e integrante do Núcleo de Telemedicina do Hospital Sírio-Libanês
+  - **Afiliação**: Dermatologista, integrante do Núcleo de Telemedicina do Hospital Sírio-Libanês e coordenador do Departamento de Teledermatologia da Sociedade Brasileira de Dermatologia.
   - **Público Alvo**: qualquer pessoa que se interessa pelo tema
   - **Local**: [Canal do LIFE Conferência Web](https://conferenciaweb.rnp.br/sala/life-ufes)
     - Basta entrar como convidado, colocar nome e email.
