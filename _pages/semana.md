@@ -28,7 +28,7 @@ O evento é 100% gratuito e ocorre dentro da [Semana do Conhecimento da UFES](ht
   - **Afiliação**: Dermatologista, integrante do Núcleo de Telemedicina do Hospital Sírio-Libanês e coordenador do Departamento de Teledermatologia da Sociedade Brasileira de Dermatologia.
   - **Público Alvo**: qualquer pessoa que se interessa pelo tema
   - **Local**: [Canal do LIFE no YouTube](https://www.youtube.com/live/49bB5DUZ6Yo?si=uljsw1Q9OS28AOZ9)
-    - Basta entrar como convidado, colocar nome e email.
+    - Basta clicar no link acima para assistir à palestra ao vivo, não é necessário inscrição prévia. Você pode assistir à palestra de qualquer lugar (computador, TV, celular, etc), desde que tenha acesso à internet.
   - **Horário**: 19h
   - **Link para os slides**: *em breve*
   
